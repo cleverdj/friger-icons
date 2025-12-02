@@ -1,6 +1,31 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:58:12.815866",
+  "last_updated": "2025-12-02T22:16:22.721837",
   "categories": {},
-  "ingredients": {}
+  "ingredients": {
+    "호박": {
+      "name_en": "item_1764681313677",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681313677.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-02T22:16:17.265844"
+    },
+    "열무김치": {
+      "name_en": "item_1764681339855",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681339855.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-02T22:16:20.145925"
+    },
+    "우유": {
+      "name_en": "item_1764681360977",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681360977.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-02T22:16:22.721801"
+    }
+  }
 }
