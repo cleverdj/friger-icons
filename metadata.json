@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-12-02T05:19:00.615Z",
+  "categories": {},
+  "ingredients": {
+    "맛있는사과": {
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@latest/icons/ingredients/apple.png",
+      "category": "과일",
+      "version": "1.0",
+      "updated_at": "2025-12-02T05:18:42.898Z"
+    }
+  }
+}
