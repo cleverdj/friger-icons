@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:37:47.993218",
+  "last_updated": "2025-12-02T21:38:19.041886",
   "categories": {},
   "ingredients": {
     "호박": {
@@ -10,6 +10,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-02T21:37:47.993191"
+    },
+    "소불고기": {
+      "name_en": "item_1764679085369",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764679085369.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-02T21:38:19.041860"
     }
   }
 }
