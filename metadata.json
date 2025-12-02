@@ -1,15 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:33:41.273714",
+  "last_updated": "2025-12-02T21:33:45.747192",
   "categories": {},
-  "ingredients": {
-    "소불고기": {
-      "name_en": "",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-02T21:28:29.603411"
-    }
-  }
+  "ingredients": {}
 }
