@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T09:11:56.076Z",
+  "last_updated": "2025-12-02T21:10:02.316944",
   "categories": {},
   "ingredients": {
     "맛있는사과": {
@@ -8,12 +8,6 @@
       "category": "과일",
       "version": "1.0",
       "updated_at": "2025-12-02T05:18:42.898Z"
-    },
-    "귤": {
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@latest/icons/ingredients/orange.png",
-      "category": "과일",
-      "version": "1.0",
-      "updated_at": "2025-12-02T08:54:58.053Z"
     }
   }
 }
