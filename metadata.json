@@ -1,6 +1,15 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:21:48.279010",
+  "last_updated": "2025-12-02T21:26:20.258600",
   "categories": {},
-  "ingredients": {}
+  "ingredients": {
+    "면": {
+      "name_en": "",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-02T21:26:20.254042"
+    }
+  }
 }
