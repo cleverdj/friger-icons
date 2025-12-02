@@ -1,7 +1,14 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:55:43.437407",
-  "categories": {},
+  "last_updated": "2025-12-02T21:56:21.265804",
+  "categories": {
+    "rer": {
+      "name_en": "fff",
+      "url": "",
+      "version": "1.0",
+      "updated_at": "2025-12-02T21:56:21.265719"
+    }
+  },
   "ingredients": {
     "호박": {
       "name_en": "item_1764679055978",
