@@ -1,14 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-02T21:52:53.458747",
-  "categories": {
-    "ㅎㅎ": {
-      "name_en": "cc",
-      "url": "",
-      "version": "1.0",
-      "updated_at": "2025-12-02T21:52:53.457672"
-    }
-  },
+  "last_updated": "2025-12-02T21:55:43.437407",
+  "categories": {},
   "ingredients": {
     "호박": {
       "name_en": "item_1764679055978",
