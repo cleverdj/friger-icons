@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T06:08:03.904450",
+  "last_updated": "2025-12-04T07:19:15.195407",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -186,14 +186,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:40:23.579785"
-    },
-    "고추": {
-      "name_en": "item_1764794185653",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794185653.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:40:25.521921"
     },
     "대파": {
       "name_en": "item_1764794224794",
