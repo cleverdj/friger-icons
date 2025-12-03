@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-03T22:33:58.208195",
+  "last_updated": "2025-12-03T22:36:39.923342",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -42,6 +42,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-03T22:33:58.202497"
+    },
+    "곶감": {
+      "name_en": "item_1764768977221",
+      "category": "과일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764768977221.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-03T22:36:39.923325"
     }
   }
 }
