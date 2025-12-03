@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T07:20:53.602116",
+  "last_updated": "2025-12-04T07:24:06.529835",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -26,14 +26,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T06:08:03.904430"
-    },
-    "갈비": {
-      "name_en": "item_1764688675492",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764688675492.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-03T00:18:22.675077"
     },
     "단호박": {
       "name_en": "item_1764681313677",
