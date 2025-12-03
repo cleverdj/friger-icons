@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T05:32:22.003624",
+  "last_updated": "2025-12-04T05:40:51.018222",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -58,6 +58,222 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:32:22.003066"
+    },
+    "당근": {
+      "name_en": "item_1764793947727",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793947727.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:44.271369"
+    },
+    "상추": {
+      "name_en": "item_1764793957962",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793957962.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:46.728524"
+    },
+    "표고버섯": {
+      "name_en": "item_1764793971648",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793971648.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:49.181931"
+    },
+    "창경채": {
+      "name_en": "item_1764793986512",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793986512.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:51.728927"
+    },
+    "배추": {
+      "name_en": "item_1764794003576",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794003576.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:54.820777"
+    },
+    "숙주나물": {
+      "name_en": "item_1764794014592",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794014592.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:57.356082"
+    },
+    "깻잎": {
+      "name_en": "item_1764794028456",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794028456.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:39:59.835137"
+    },
+    "쪽파": {
+      "name_en": "item_1764794044819",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794044819.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:02.380993"
+    },
+    "고구마": {
+      "name_en": "item_1764794069230",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794069230.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:04.951636"
+    },
+    "세송이버섯": {
+      "name_en": "item_1764794081431",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794081431.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:07.516177"
+    },
+    "샐러리": {
+      "name_en": "item_1764794102004",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794102004.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:10.054520"
+    },
+    "무": {
+      "name_en": "item_1764794117126",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794117126.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:13.150233"
+    },
+    "브로콜리": {
+      "name_en": "item_1764794127744",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794127744.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:15.810897"
+    },
+    "오이": {
+      "name_en": "item_1764794141465",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794141465.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:18.250554"
+    },
+    "파프리카": {
+      "name_en": "item_1764794158679",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794158679.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:21.139215"
+    },
+    "팽이버섯": {
+      "name_en": "item_1764794172971",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794172971.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:23.579785"
+    },
+    "고추": {
+      "name_en": "item_1764794185653",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794185653.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:25.521921"
+    },
+    "대파": {
+      "name_en": "item_1764794224794",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794224794.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:28.076216"
+    },
+    "시금치": {
+      "name_en": "item_1764794244839",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794244839.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:30.742567"
+    },
+    "콩나물": {
+      "name_en": "item_1764794261196",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794261196.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:33.524272"
+    },
+    "양배추": {
+      "name_en": "item_1764794273994",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794273994.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:36.063581"
+    },
+    "양파": {
+      "name_en": "item_1764794287384",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794287384.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:38.321578"
+    },
+    "가지": {
+      "name_en": "item_1764794314982",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794314982.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:40.881876"
+    },
+    "감자": {
+      "name_en": "item_1764794325664",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794325664.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:43.438838"
+    },
+    "토마토": {
+      "name_en": "item_1764794340079",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794340079.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:45.791936"
+    },
+    "애호박": {
+      "name_en": "item_1764794358162",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794358162.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:48.664130"
+    },
+    "마늘": {
+      "name_en": "item_1764794370428",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794370428.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T05:40:51.018197"
     }
   }
 }
