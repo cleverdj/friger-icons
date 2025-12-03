@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T07:24:39.497855",
+  "last_updated": "2025-12-04T07:26:20.465147",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -594,6 +594,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T07:24:39.497818"
+    },
+    "삼겹살": {
+      "name_en": "item_1764800766084",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764800766084.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T07:26:20.465047"
     }
   }
 }
