@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T05:58:53.812358",
+  "last_updated": "2025-12-04T06:06:32.955739",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -514,6 +514,70 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:58:53.812326"
+    },
+    "펜네": {
+      "name_en": "item_1764795750601",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795750601.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:15.954384"
+    },
+    "병아리콩": {
+      "name_en": "item_1764795802513",
+      "category": "곡물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795802513.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:18.431480"
+    },
+    "생닭": {
+      "name_en": "item_1764795828796",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795828796.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:20.789681"
+    },
+    "닭가슴살": {
+      "name_en": "item_1764795857054",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795857054.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:23.216628"
+    },
+    "갈치": {
+      "name_en": "item_1764795883285",
+      "category": "해산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795883285.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:25.579619"
+    },
+    "고등어": {
+      "name_en": "item_1764795898730",
+      "category": "해산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795898730.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:28.252632"
+    },
+    "가래떡": {
+      "name_en": "item_1764795922409",
+      "category": "떡",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795922409.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:30.594032"
+    },
+    "소시지": {
+      "name_en": "item_1764795952595",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795952595.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T06:06:32.955719"
     }
   }
 }
