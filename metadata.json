@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T06:06:32.955739",
+  "last_updated": "2025-12-04T06:08:03.904450",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -20,12 +20,12 @@
       "updated_at": "2025-12-02T22:16:22.721801"
     },
     "방울토마토": {
-      "name_en": "item_1764681472885",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681472885.png",
+      "name_en": "item_1764796031638",
+      "category": "채소",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764796031638.png",
       "unit": "개",
       "version": "1.0",
-      "updated_at": "2025-12-02T22:18:11.807652"
+      "updated_at": "2025-12-04T06:08:03.904430"
     },
     "갈비": {
       "name_en": "item_1764688675492",
