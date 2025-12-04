@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:10:51.593837",
+  "last_updated": "2025-12-04T15:10:58.799593",
   "categories": {},
   "ingredients": {
     "표고버섯": {
@@ -106,14 +106,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:58:36.916223"
-    },
-    "체리": {
-      "name_en": "item_1764795332158",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795332158.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:39.270749"
     },
     "포도": {
       "name_en": "item_1764795344876",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:10:51.592250"
+    },
+    "체리": {
+      "name_en": "item_1764795332158",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795332158.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:10:58.799507"
     }
   }
 }
