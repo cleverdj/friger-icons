@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:08:17.071073",
+  "last_updated": "2025-12-04T15:08:23.657862",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -58,14 +58,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:40:07.516177"
-    },
-    "샐러리": {
-      "name_en": "item_1764794102004",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794102004.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:40:10.054520"
     },
     "오이": {
       "name_en": "item_1764794141465",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:08:17.071023"
+    },
+    "샐러리": {
+      "name_en": "item_1764794102004",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794102004.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:08:23.657808"
     }
   }
 }
