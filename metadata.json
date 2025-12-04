@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:11:22.124310",
+  "last_updated": "2025-12-04T15:11:31.348298",
   "categories": {},
   "ingredients": {
     "표고버섯": {
@@ -74,14 +74,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:57:44.471661"
-    },
-    "키위": {
-      "name_en": "item_1764795293275",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795293275.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:31.988638"
     },
     "파인애플": {
       "name_en": "item_1764795318062",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:11:22.124264"
+    },
+    "키위": {
+      "name_en": "item_1764795293275",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795293275.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:11:31.348250"
     }
   }
 }
