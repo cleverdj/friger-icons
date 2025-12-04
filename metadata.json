@@ -1,16 +1,8 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:12:04.652167",
+  "last_updated": "2025-12-04T15:12:10.394994",
   "categories": {},
   "ingredients": {
-    "표고버섯": {
-      "name_en": "item_1764793971648",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793971648.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:39:49.181931"
-    },
     "모밀면": {
       "name_en": "item_1764794519445",
       "category": "면류",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:12:04.652026"
+    },
+    "표고버섯": {
+      "name_en": "item_1764793971648",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764793971648.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:12:10.394950"
     }
   }
 }
