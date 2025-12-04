@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:07:46.963388",
+  "last_updated": "2025-12-04T15:07:53.636155",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -218,14 +218,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:58:13.452173"
-    },
-    "블랙베리": {
-      "name_en": "item_1764795214881",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795214881.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:15.922651"
     },
     "아보카도": {
       "name_en": "item_1764795233425",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:07:46.963321"
+    },
+    "블랙베리": {
+      "name_en": "item_1764795214881",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795214881.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:07:53.636110"
     }
   }
 }
