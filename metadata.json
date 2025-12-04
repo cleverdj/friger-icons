@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:07:34.128866",
+  "last_updated": "2025-12-04T15:07:41.350279",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -202,14 +202,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:57:51.437097"
-    },
-    "복숭아": {
-      "name_en": "item_1764795104696",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795104696.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:03.631932"
     },
     "코코넛": {
       "name_en": "item_1764795121842",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:07:34.128813"
+    },
+    "복숭아": {
+      "name_en": "item_1764795104696",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795104696.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:07:41.350232"
     }
   }
 }
