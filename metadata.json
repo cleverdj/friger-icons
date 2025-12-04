@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:07:26.230350",
+  "last_updated": "2025-12-04T15:07:34.128866",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -323,14 +323,6 @@
       "version": "1.0",
       "updated_at": "2025-12-04T06:06:15.954384"
     },
-    "병아리콩": {
-      "name_en": "item_1764795802513",
-      "category": "곡물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795802513.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T06:06:18.431480"
-    },
     "생닭": {
       "name_en": "item_1764795828796",
       "category": "육류",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:07:26.230300"
+    },
+    "병아리콩": {
+      "name_en": "item_1764795802513",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795802513.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:07:34.128813"
     }
   }
 }
