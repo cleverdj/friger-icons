@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:11:48.785322",
+  "last_updated": "2025-12-04T15:11:53.433666",
   "categories": {},
   "ingredients": {
     "표고버섯": {
@@ -10,14 +10,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:39:49.181931"
-    },
-    "팽이버섯": {
-      "name_en": "item_1764794172971",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794172971.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:40:23.579785"
     },
     "모밀면": {
       "name_en": "item_1764794519445",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:11:48.785287"
+    },
+    "팽이버섯": {
+      "name_en": "item_1764794172971",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794172971.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:11:53.433610"
     }
   }
 }
