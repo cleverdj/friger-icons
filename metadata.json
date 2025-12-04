@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T14:05:58.142217",
+  "last_updated": "2025-12-04T14:06:06.042891",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -435,14 +435,6 @@
       "version": "1.0",
       "updated_at": "2025-12-04T05:58:46.520146"
     },
-    "귤": {
-      "name_en": "item_1764795398885",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795398885.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:53.812326"
-    },
     "펜네": {
       "name_en": "item_1764795750601",
       "category": "면류",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T14:05:58.142173"
+    },
+    "귤": {
+      "name_en": "item_1764795398885",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795398885.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T14:06:06.042860"
     }
   }
 }
