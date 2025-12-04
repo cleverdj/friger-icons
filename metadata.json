@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T14:05:24.804203",
+  "last_updated": "2025-12-04T14:05:38.007560",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -499,14 +499,6 @@
       "version": "1.0",
       "updated_at": "2025-12-04T06:06:23.216628"
     },
-    "고등어": {
-      "name_en": "item_1764795898730",
-      "category": "해산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795898730.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T06:06:28.252632"
-    },
     "소시지": {
       "name_en": "item_1764795952595",
       "category": "가공식품",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T14:05:24.804130"
+    },
+    "고등어": {
+      "name_en": "item_1764795898730",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795898730.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T14:05:38.007419"
     }
   }
 }
