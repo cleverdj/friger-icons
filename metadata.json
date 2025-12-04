@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:12:13.713039",
+  "last_updated": "2025-12-04T15:12:20.358239",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -58,14 +58,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T06:06:20.789681"
-    },
-    "홍고추": {
-      "name_en": "item_1764800398657",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764800398657.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T07:20:53.602094"
     },
     "등갈비": {
       "name_en": "item_1764800662782",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:12:13.712890"
+    },
+    "홍고추": {
+      "name_en": "item_1764800398657",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764800398657.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:12:20.358148"
     }
   }
 }
