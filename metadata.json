@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:09:27.831982",
+  "last_updated": "2025-12-04T15:09:33.919158",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -98,14 +98,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:40:45.791936"
-    },
-    "애호박": {
-      "name_en": "item_1764794358162",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794358162.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:40:48.664130"
     },
     "모밀면": {
       "name_en": "item_1764794519445",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:09:27.831939"
+    },
+    "애호박": {
+      "name_en": "item_1764794358162",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794358162.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:09:33.919098"
     }
   }
 }
