@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T07:30:36.265661",
+  "last_updated": "2025-12-04T09:07:09.661390",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -610,6 +610,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T07:30:36.265520"
+    },
+    "크랜베리": {
+      "name_en": "item_1764806802064",
+      "category": "과일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764806802064.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T09:07:09.661273"
     }
   }
 }
