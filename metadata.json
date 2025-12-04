@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:09:55.959291",
+  "last_updated": "2025-12-04T15:10:03.899144",
   "categories": {},
   "ingredients": {
     "우유": {
@@ -34,14 +34,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:40:02.380993"
-    },
-    "오이": {
-      "name_en": "item_1764794141465",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794141465.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:40:18.250554"
     },
     "파프리카": {
       "name_en": "item_1764794158679",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:09:55.957200"
+    },
+    "오이": {
+      "name_en": "item_1764794141465",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764794141465.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:10:03.899087"
     }
   }
 }
