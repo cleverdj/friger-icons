@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T15:08:53.926240",
+  "last_updated": "2025-12-04T15:09:01.358867",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -218,14 +218,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T05:58:31.988638"
-    },
-    "수박": {
-      "name_en": "item_1764795305817",
-      "category": "과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795305817.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-04T05:58:34.441904"
     },
     "파인애플": {
       "name_en": "item_1764795318062",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T15:08:53.926089"
+    },
+    "수박": {
+      "name_en": "item_1764795305817",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764795305817.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T15:09:01.358540"
     }
   }
 }
