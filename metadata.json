@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-04T14:06:12.167173",
+  "last_updated": "2025-12-04T14:06:19.000591",
   "categories": {},
   "ingredients": {
     "열무김치": {
@@ -26,14 +26,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T06:08:03.904430"
-    },
-    "단호박": {
-      "name_en": "item_1764681313677",
-      "category": "채소",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681313677.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-03T22:33:58.202497"
     },
     "미나리": {
       "name_en": "item_1764793932167",
@@ -634,6 +626,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-04T14:06:12.167144"
+    },
+    "단호박": {
+      "name_en": "item_1764681313677",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764681313677.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-04T14:06:19.000549"
     }
   }
 }
