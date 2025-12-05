@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T14:06:35.217288",
+  "last_updated": "2025-12-05T18:45:57.150440",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -818,6 +818,86 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T14:06:35.215982"
+    },
+    "생크림": {
+      "name_en": "item_1764927561179_1",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:23.357986"
+    },
+    "연유": {
+      "name_en": "item_1764927561179_2",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_2.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:26.762953"
+    },
+    "두유": {
+      "name_en": "item_1764927561179_3",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_3.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:30.128212"
+    },
+    "버터": {
+      "name_en": "item_1764927561179_4",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_4.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:34.213019"
+    },
+    "슬라이스 치즈": {
+      "name_en": "item_1764927561179_5",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_5.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:38.099619"
+    },
+    "요거트": {
+      "name_en": "item_1764927561179_6",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_6.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:42.102314"
+    },
+    "그릭요거트": {
+      "name_en": "item_1764927561179_7",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_7.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:45.674150"
+    },
+    "딸기우유": {
+      "name_en": "item_1764927561179_8",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_8.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:49.779314"
+    },
+    "초코우유": {
+      "name_en": "item_1764927561179_9",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_9.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:53.356366"
+    },
+    "멸균우유": {
+      "name_en": "item_1764927561179_10",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764927561179_10.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:45:57.150416"
     }
   }
 }
