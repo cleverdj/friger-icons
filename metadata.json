@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T07:54:13.820804",
+  "last_updated": "2025-12-06T07:55:27.702603",
   "categories": {},
   "ingredients": {
     "굴": {
@@ -18,14 +18,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T07:52:23.847845"
-    },
-    "1000009193": {
-      "name_en": "item_1764974286535_4",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286535_4.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-06T07:52:24.970169"
     },
     "꽃게": {
       "name_en": "item_1764974286535_5",
@@ -794,6 +786,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T07:54:13.820772"
+    },
+    "바지락": {
+      "name_en": "item_1764974286535_4",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286535_4.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T07:55:27.702506"
     }
   }
 }
