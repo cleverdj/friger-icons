@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T18:45:57.150440",
+  "last_updated": "2025-12-05T18:55:36.624880",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -898,6 +898,30 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T18:45:57.150416"
+    },
+    "두리안": {
+      "name_en": "item_1764928507180_1",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764928507180_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:55:29.149448"
+    },
+    "대추": {
+      "name_en": "item_1764928507180_2",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764928507180_2.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:55:33.141349"
+    },
+    "비트": {
+      "name_en": "item_1764928507180_3",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764928507180_3.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T18:55:36.624862"
     }
   }
 }
