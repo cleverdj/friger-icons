@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T01:01:00.455185",
+  "last_updated": "2025-12-06T01:01:04.441666",
   "categories": {
     "과일류": {
       "name_en": "fruits",
@@ -25,6 +25,12 @@
       "url": "",
       "version": "1.0",
       "updated_at": "2025-12-06T01:01:00.455160"
+    },
+    "면류": {
+      "name_en": "noodles",
+      "url": "",
+      "version": "1.0",
+      "updated_at": "2025-12-06T01:01:04.441644"
     }
   },
   "ingredients": {
