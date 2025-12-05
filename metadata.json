@@ -1,7 +1,14 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T19:48:22.950773",
-  "categories": {},
+  "last_updated": "2025-12-06T01:00:31.178345",
+  "categories": {
+    "과일류": {
+      "name_en": "fruits",
+      "url": "",
+      "version": "1.0",
+      "updated_at": "2025-12-06T01:00:31.174059"
+    }
+  },
   "ingredients": {
     "모밀면": {
       "name_en": "item_1764794519445",
