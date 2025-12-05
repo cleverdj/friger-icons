@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T09:47:38.090166",
+  "last_updated": "2025-12-05T14:06:35.217288",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -810,6 +810,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T09:47:38.090074"
+    },
+    "프레즐": {
+      "name_en": "item_1764911184030_1",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764911184030_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T14:06:35.215982"
     }
   }
 }
