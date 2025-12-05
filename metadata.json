@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-12-06T07:01:41.930502",
+  "categories": {},
+  "ingredients": {
+    "1000009079": {
+      "name_en": "item_1764972096522_1",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764972096522_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T07:01:41.930474"
+    }
+  }
+}
