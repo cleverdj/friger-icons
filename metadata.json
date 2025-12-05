@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T08:02:05.066674",
+  "last_updated": "2025-12-06T08:30:43.264020",
   "categories": {},
   "ingredients": {
     "굴": {
@@ -106,14 +106,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T07:52:37.055265"
-    },
-    "비엔나소시지": {
-      "name_en": "item_1764974286536_16",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286536_16.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-06T07:52:38.181165"
     },
     "두부": {
       "name_en": "item_1764974286536_17",
@@ -978,6 +970,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T08:02:05.066646"
+    },
+    "비엔나소시지": {
+      "name_en": "item_1764974286536_16",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286536_16.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T08:30:43.263890"
     }
   }
 }
