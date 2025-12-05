@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T09:40:12.248186",
+  "last_updated": "2025-12-05T09:40:19.547265",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -651,14 +651,6 @@
       "version": "1.0",
       "updated_at": "2025-12-05T09:18:33.695392"
     },
-    "크로와상": {
-      "name_en": "item_1764893727001_8",
-      "category": "제과",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764893727001_8.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-05T09:18:47.445841"
-    },
     "양송이버섯": {
       "name_en": "item_1764893727001_10",
       "category": "채소류",
@@ -794,6 +786,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T09:40:12.248158"
+    },
+    "크로와상": {
+      "name_en": "item_1764893727001_8",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764893727001_8.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T09:40:19.547238"
     }
   }
 }
