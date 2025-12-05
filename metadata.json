@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T09:40:01.978004",
+  "last_updated": "2025-12-05T09:40:07.079403",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -715,14 +715,6 @@
       "version": "1.0",
       "updated_at": "2025-12-05T09:19:11.394557"
     },
-    "소보로빵": {
-      "name_en": "item_1764893727001_5",
-      "category": "제과",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764893727001_5.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-05T09:19:48.295491"
-    },
     "쌀": {
       "name_en": "item_1764894020032_1",
       "category": "곡류&전분",
@@ -794,6 +786,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T09:40:01.977976"
+    },
+    "소보로빵": {
+      "name_en": "item_1764893727001_5",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764893727001_5.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T09:40:07.079380"
     }
   }
 }
