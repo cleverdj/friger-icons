@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T09:19:48.295514",
+  "last_updated": "2025-12-05T09:20:30.345722",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -754,6 +754,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T09:19:48.295491"
+    },
+    "쌀": {
+      "name_en": "item_1764894020032_1",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764894020032_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T09:20:30.345695"
     }
   }
 }
