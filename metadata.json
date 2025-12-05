@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-05T18:55:36.624880",
+  "last_updated": "2025-12-05T19:48:10.050290",
   "categories": {},
   "ingredients": {
     "모밀면": {
@@ -922,6 +922,62 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-05T18:55:36.624862"
+    },
+    "돼지고기": {
+      "name_en": "item_1764931569929_1",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:47:46.911651"
+    },
+    "메추리알": {
+      "name_en": "item_1764931569929_2",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_2.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:47:50.902496"
+    },
+    "계란": {
+      "name_en": "item_1764931569929_3",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_3.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:47:55.000964"
+    },
+    "대패삼겹살": {
+      "name_en": "item_1764931569929_4",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_4.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:47:58.680146"
+    },
+    "오리고기": {
+      "name_en": "item_1764931569929_5",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_5.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:48:02.884329"
+    },
+    "햄": {
+      "name_en": "item_1764931569929_6",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_6.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:48:06.369923"
+    },
+    "비앤나소시지": {
+      "name_en": "item_1764931569929_7",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764931569929_7.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-05T19:48:10.050259"
     }
   }
 }
