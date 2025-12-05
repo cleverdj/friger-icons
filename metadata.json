@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T01:00:55.735464",
+  "last_updated": "2025-12-06T01:01:00.455185",
   "categories": {
     "과일류": {
       "name_en": "fruits",
@@ -19,6 +19,12 @@
       "url": "",
       "version": "1.0",
       "updated_at": "2025-12-06T01:00:55.735443"
+    },
+    "떡류": {
+      "name_en": "rice_cake",
+      "url": "",
+      "version": "1.0",
+      "updated_at": "2025-12-06T01:01:00.455160"
     }
   },
   "ingredients": {
