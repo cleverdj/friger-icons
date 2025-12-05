@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T01:01:04.441666",
+  "last_updated": "2025-12-06T01:04:18.283628",
   "categories": {
     "과일류": {
       "name_en": "fruits",
@@ -31,6 +31,12 @@
       "url": "",
       "version": "1.0",
       "updated_at": "2025-12-06T01:01:04.441644"
+    },
+    "1000009059": {
+      "name_en": "item_1764950648996_1",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/categories/item_1764950648996_1.png",
+      "version": "1.0",
+      "updated_at": "2025-12-06T01:04:18.283596"
     }
   },
   "ingredients": {
