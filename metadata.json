@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T08:00:38.117999",
+  "last_updated": "2025-12-07T08:00:46.111471",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -722,15 +722,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:32:19.383697"
-    },
-    "브로콜리": {
-      "name_en": "item_1765001231981_86",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231981_86.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:32:20.608883"
     },
     "오이": {
       "name_en": "item_1765001231982_87",
