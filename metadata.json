@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T15:51:17.355802",
+  "last_updated": "2025-12-06T17:14:56.514485",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -226,14 +226,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T15:31:05.955530"
-    },
-    "생닭": {
-      "name_en": "item_1765001231980_29",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_29.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:31:07.613289"
     },
     "비트": {
       "name_en": "item_1765001231980_30",
@@ -1146,6 +1138,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T15:51:17.355743"
+    },
+    "닭고기": {
+      "name_en": "item_1765001231980_29",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_29.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T17:14:56.507116"
     }
   }
 }
