@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T08:14:52.550808",
+  "last_updated": "2025-12-07T08:15:24.497351",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1325,6 +1325,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T08:09:49.748885"
+    },
+    "적상추": {
+      "name_en": "item_JPEG_20251207_081501_2979629697862921668",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_081501_2979629697862921668.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:15:23.283892"
+    },
+    "상추": {
+      "name_en": "item_JPEG_20251207_081501_1120953303164651840",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_081501_1120953303164651840.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:15:24.497339"
     }
   }
 }
