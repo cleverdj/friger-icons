@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T18:14:49.142333",
+  "last_updated": "2025-12-06T18:15:53.467610",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -90,14 +90,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T15:30:43.236994"
-    },
-    "굴/석회": {
-      "name_en": "item_1765001231980_12",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_12.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:30:44.243739"
     },
     "갈치": {
       "name_en": "item_1765001231980_13",
@@ -1154,6 +1146,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T18:14:49.142242"
+    },
+    "굴/석화": {
+      "name_en": "item_1765001231980_12",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_12.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T18:15:53.467585"
     }
   }
 }
