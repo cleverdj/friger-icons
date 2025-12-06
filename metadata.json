@@ -1298,24 +1298,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T18:20:02.096200"
-    },
-    "호빵": {
-      "name_en": "item_8hp0is1qvbg30",
-      "category": "제과/제빵",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_8hp0is1qvbg30.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-07T01:09:58.816919"
-    },
-    "닭다리": {
-      "name_en": "item_0jrfl8nex63ke",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_0jrfl8nex63ke.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-07T00:57:38.865550"
     }
   }
 }
