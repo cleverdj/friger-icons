@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T08:01:32.602955",
+  "last_updated": "2025-12-07T08:03:04.754494",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1244,6 +1244,96 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T07:46:07.209691"
+    },
+    "단무지": {
+      "name_en": "item_JPEG_20251207_080149_7876353665094741459",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_7876353665094741459.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:52.682590"
+    },
+    "떡국떡": {
+      "name_en": "item_JPEG_20251207_080149_2419272686496179598",
+      "category": "떡류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_2419272686496179598.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:53.698625"
+    },
+    "당근": {
+      "name_en": "item_JPEG_20251207_080149_5102592814149821262",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_5102592814149821262.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:54.617458"
+    },
+    "깻잎": {
+      "name_en": "item_JPEG_20251207_080149_4507739566393765399",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_4507739566393765399.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:56.788727"
+    },
+    "파프리카": {
+      "name_en": "item_JPEG_20251207_080149_556572734033689725",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_556572734033689725.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:58.100235"
+    },
+    "브로콜리": {
+      "name_en": "item_JPEG_20251207_080149_7382257855223493650",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_7382257855223493650.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:02:59.963349"
+    },
+    "오이": {
+      "name_en": "item_JPEG_20251207_080149_3395456426793004803",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_3395456426793004803.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:03:01.191714"
+    },
+    "새송이버섯": {
+      "name_en": "item_JPEG_20251207_080149_1482658891333337377",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_1482658891333337377.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:03:02.300842"
+    },
+    "배추": {
+      "name_en": "item_JPEG_20251207_080149_3981691824775176424",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_3981691824775176424.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:03:03.528691"
+    },
+    "애호박": {
+      "name_en": "item_JPEG_20251207_080149_3347849504782697228",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_080149_3347849504782697228.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T08:03:04.754478"
     }
   }
 }
