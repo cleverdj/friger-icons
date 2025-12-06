@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T07:35:48.000647",
+  "last_updated": "2025-12-07T07:46:07.209704",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1282,22 +1282,22 @@
       "updated_at": "2025-12-06T18:20:02.096200"
     },
     "호빵": {
-      "name_en": "item_JPEG_20251207_015442_5332265670599074989",
+      "name_en": "item_JPEG_20251207_074542_4628795164141910369",
       "category": "제과/제빵",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_015442_5332265670599074989.png",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_074542_4628795164141910369.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-07T01:54:54.072583"
+      "updated_at": "2025-12-07T07:46:05.999755"
     },
     "닭다리": {
-      "name_en": "item_JPEG_20251207_015552_1686107874652151674",
+      "name_en": "item_JPEG_20251207_074542_5035601608575928555",
       "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_015552_1686107874652151674.png",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_074542_5035601608575928555.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-07T01:56:03.540303"
+      "updated_at": "2025-12-07T07:46:07.209691"
     }
   }
 }
