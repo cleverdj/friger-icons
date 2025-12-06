@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-06T23:51:39.120192",
+  "lastUpdated": "2025-12-06T23:52:17.626346",
   "groups": [
     {
       "id": "fresh",
@@ -248,6 +248,13 @@
       "nameEn": "etc",
       "groupId": "others",
       "order": 2
+    },
+    {
+      "id": "hsgd",
+      "name": "ㄷㄷㄷ",
+      "nameEn": "jshd",
+      "groupId": "fresh",
+      "order": 1000
     }
   ]
 }
