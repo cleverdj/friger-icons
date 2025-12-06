@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-06T14:36:41.689987",
+  "lastUpdated": "2025-12-06T23:51:18.434496",
   "groups": [
     {
       "id": "fresh",
@@ -41,7 +41,7 @@
   "categories": [
     {
       "id": "vegetables",
-      "name": "채소류",
+      "name": "채소",
       "nameEn": "vegetables",
       "groupId": "fresh",
       "order": 1
