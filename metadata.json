@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T08:30:43.264020",
+  "last_updated": "2025-12-06T09:12:32.693515",
   "categories": {},
   "ingredients": {
     "굴": {
@@ -58,14 +58,6 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T07:52:30.298689"
-    },
-    "1000009199": {
-      "name_en": "item_1764974286535_10",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286535_10.png",
-      "unit": "개",
-      "version": "1.0",
-      "updated_at": "2025-12-06T07:52:31.314917"
     },
     "햄": {
       "name_en": "item_1764974286535_11",
@@ -978,6 +970,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T08:30:43.263890"
+    },
+    "대게": {
+      "name_en": "item_1764974286535_10",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1764974286535_10.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T09:12:32.693409"
     }
   }
 }
