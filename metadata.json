@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T08:09:49.748894",
+  "last_updated": "2025-12-07T08:14:52.550808",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -641,15 +641,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:32:03.698163"
-    },
-    "상추": {
-      "name_en": "item_1765001231981_75",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231981_75.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:32:06.676462"
     },
     "표고버섯": {
       "name_en": "item_1765001231981_76",
