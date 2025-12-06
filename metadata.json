@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-06T15:48:23.801616",
+  "last_updated": "2025-12-06T15:51:17.355802",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1138,6 +1138,14 @@
       "unit": "개",
       "version": "1.0",
       "updated_at": "2025-12-06T15:33:34.131026"
+    },
+    "미나리": {
+      "name_en": "item_1765003867510_1",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765003867510_1.png",
+      "unit": "개",
+      "version": "1.0",
+      "updated_at": "2025-12-06T15:51:17.355743"
     }
   }
 }
