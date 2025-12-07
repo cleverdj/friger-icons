@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T18:54:19.916628",
+  "last_updated": "2025-12-07T21:56:51.566990",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1532,6 +1532,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T18:54:19.916616"
+    },
+    "김치볶음밥": {
+      "name_en": "item_JPEG_20251207_215640_7492976756966641402",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_215640_7492976756966641402.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T21:56:51.566983"
     }
   }
 }
