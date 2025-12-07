@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T16:10:06.546575",
+  "last_updated": "2025-12-07T16:42:55.195809",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1415,6 +1415,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T16:10:06.546562"
+    },
+    "불고기/제육용": {
+      "name_en": "item_JPEG_20251207_164242_5630408747539144084",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_164242_5630408747539144084.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T16:42:55.195791"
     }
   }
 }
