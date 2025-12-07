@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T16:04:05.887967",
+  "last_updated": "2025-12-07T16:10:06.546575",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1406,6 +1406,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T16:04:05.887959"
+    },
+    "등심": {
+      "name_en": "item_JPEG_20251207_160957_3518716787758851663",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_160957_3518716787758851663.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T16:10:06.546562"
     }
   }
 }
