@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T17:04:02.583306",
+  "last_updated": "2025-12-07T17:07:43.259631",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1460,6 +1460,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T17:04:02.583300"
+    },
+    "지리멸치": {
+      "name_en": "item_JPEG_20251207_170730_658921105198330637",
+      "category": "건어물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_170730_658921105198330637.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T17:07:43.259624"
     }
   }
 }
