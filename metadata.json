@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T17:22:27.610245",
+  "last_updated": "2025-12-07T17:30:49.347730",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1478,6 +1478,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T17:22:27.610239"
+    },
+    "주꾸미": {
+      "name_en": "item_JPEG_20251207_173031_5813882609020317852",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_173031_5813882609020317852.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T17:30:46.568848"
+    },
+    "낙지": {
+      "name_en": "item_JPEG_20251207_173032_6494101245224759257",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_173032_6494101245224759257.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T17:30:49.347715"
     }
   }
 }
