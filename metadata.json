@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T18:53:58.331523",
+  "last_updated": "2025-12-07T18:54:19.916628",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1523,6 +1523,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T18:52:01.570837"
+    },
+    "건포도": {
+      "name_en": "item_JPEG_20251207_185410_602494123489750497",
+      "category": "건조과일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_185410_602494123489750497.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T18:54:19.916616"
     }
   }
 }
