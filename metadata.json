@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T18:52:01.570851",
+  "last_updated": "2025-12-07T18:53:58.331523",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -578,15 +578,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:31:55.005417"
-    },
-    "건포도": {
-      "name_en": "item_1765001231981_67",
-      "category": "견과류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231981_67.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:31:56.560868"
     },
     "부추": {
       "name_en": "item_1765001231981_68",
