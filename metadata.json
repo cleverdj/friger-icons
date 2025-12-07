@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T08:52:02.919863",
+  "last_updated": "2025-12-07T09:04:07.704806",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1352,6 +1352,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T08:52:02.919852"
+    },
+    "순두부": {
+      "name_en": "item_JPEG_20251207_090357_7332049116123459292",
+      "category": "콩/두부/콩가공품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_090357_7332049116123459292.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T09:04:07.704791"
     }
   }
 }
