@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-07T15:48:33.201854",
+  "last_updated": "2025-12-07T16:04:05.887967",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1397,6 +1397,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T15:48:33.201842"
+    },
+    "새싹채소": {
+      "name_en": "item_JPEG_20251207_160352_7932873257813066280",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_160352_7932873257813066280.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-07T16:04:05.887959"
     }
   }
 }
