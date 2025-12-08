@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-08T09:41:11.368655",
+  "last_updated": "2025-12-08T09:48:02.298848",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1496,15 +1496,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-07T18:07:22.599406"
-    },
-    "황태채": {
-      "name_en": "item_JPEG_20251207_184247_1411829943737498902",
-      "category": "건어물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251207_184247_1411829943737498902.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-07T18:43:00.311693"
     },
     "감말랭이": {
       "name_en": "item_JPEG_20251207_185148_669228613850684968",
