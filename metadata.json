@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-08T09:48:24.930540",
+  "last_updated": "2025-12-09T09:01:21.083708",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1559,6 +1559,69 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-08T09:48:24.930526"
+    },
+    "쌈장": {
+      "name_en": "item_JPEG_20251209_085641_3186101389720301183",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085641_3186101389720301183.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:11.807221"
+    },
+    "된장": {
+      "name_en": "item_JPEG_20251209_085641_3458925710855551212",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085641_3458925710855551212.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:13.724537"
+    },
+    "고추장": {
+      "name_en": "item_JPEG_20251209_085642_8570369766095823644",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085642_8570369766095823644.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:15.239361"
+    },
+    "굴소스": {
+      "name_en": "item_JPEG_20251209_085643_2379081758845430430",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_2379081758845430430.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:16.923869"
+    },
+    "올리브오일": {
+      "name_en": "item_JPEG_20251209_085643_9100392293685940297",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_9100392293685940297.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:18.211371"
+    },
+    "참기름": {
+      "name_en": "item_JPEG_20251209_085643_6361013613448994664",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_6361013613448994664.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:19.483616"
+    },
+    "간장": {
+      "name_en": "item_JPEG_20251209_085643_4482909264013304348",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_4482909264013304348.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T09:01:21.083691"
     }
   }
 }
