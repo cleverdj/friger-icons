@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-09T20:57:55.856077",
+  "last_updated": "2025-12-09T22:56:00.238950",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1694,6 +1694,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-09T20:57:55.856067"
+    },
+    "후추": {
+      "name_en": "item_JPEG_20251209_225515_2908832628383336225",
+      "category": "향신료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_225515_2908832628383336225.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T22:55:57.817274"
+    },
+    "소금": {
+      "name_en": "item_JPEG_20251209_225516_3510178032706330997",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_225516_3510178032706330997.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T22:55:59.011100"
+    },
+    "설탕": {
+      "name_en": "item_JPEG_20251209_225518_3492666028818666291",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_225518_3492666028818666291.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T22:56:00.238937"
     }
   }
 }
