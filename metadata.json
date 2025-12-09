@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-09T09:17:06.930256",
+  "last_updated": "2025-12-09T16:23:16.326182",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1640,6 +1640,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-09T09:17:06.930243"
+    },
+    "식용유": {
+      "name_en": "item_JPEG_20251209_162301_1068641430099240961",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_162301_1068641430099240961.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T16:23:16.326171"
     }
   }
 }
