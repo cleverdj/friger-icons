@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-09T19:27:53.273383",
+  "last_updated": "2025-12-09T19:28:15.848048",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1658,6 +1658,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-09T16:27:18.843111"
+    },
+    "스테이크소스": {
+      "name_en": "item_JPEG_20251209_192802_3598724622551874722",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_192802_3598724622551874722.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-09T19:28:15.848038"
     }
   }
 }
