@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-09T22:56:00.238950",
+  "last_updated": "2025-12-10T08:44:46.993418",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1721,6 +1721,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-09T22:56:00.238937"
+    },
+    "봄동": {
+      "name_en": "item_JPEG_20251210_084438_6070158816187530209",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251210_084438_6070158816187530209.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-10T08:44:46.993407"
     }
   }
 }
