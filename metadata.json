@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-11T07:10:24.288392",
+  "last_updated": "2025-12-11T07:14:40.091804",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1775,6 +1775,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-10T22:27:24.043660"
+    },
+    "알배추": {
+      "name_en": "item_JPEG_20251211_071432_8370793370976943079",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251211_071432_8370793370976943079.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-11T07:14:40.091795"
     }
   }
 }
