@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-11T07:22:34.624728",
+  "last_updated": "2025-12-11T07:24:30.541965",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -137,15 +137,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:30:49.571571"
-    },
-    "대하": {
-      "name_en": "item_1765001231980_17",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_17.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:30:50.804498"
     },
     "두부": {
       "name_en": "item_1765001231980_18",
