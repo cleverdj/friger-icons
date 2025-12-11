@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:26:20.158701",
+  "last_updated": "2025-12-12T06:26:58.760414",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1820,15 +1820,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-12T06:15:58.288982"
-    },
-    "크래미": {
-      "name_en": "item_JPEG_20251212_062606_914630558988620143",
-      "category": "가공식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_062606_914630558988620143.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-12T06:26:20.158693"
     },
     "치킨너겟": {
       "name_en": "item_JPEG_20251212_061003_3120892488239772464",
