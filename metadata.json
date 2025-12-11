@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-11T09:30:41.307729",
+  "last_updated": "2025-12-11T09:30:49.699273",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1811,15 +1811,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-11T09:25:21.591572"
-    },
-    "명랑": {
-      "name_en": "item_JPEG_20251211_093002_1257835008619371335",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251211_093002_1257835008619371335.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-11T09:30:25.431666"
     },
     "명란": {
       "name_en": "item_JPEG_20251211_093032_5955126144876925233",
