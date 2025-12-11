@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:29:21.813562",
+  "last_updated": "2025-12-12T06:33:37.183364",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -533,15 +533,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:31:49.581122"
-    },
-    "삼겹살": {
-      "name_en": "item_1765001231981_63",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231981_63.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:31:50.909819"
     },
     "석류": {
       "name_en": "item_1765001231981_64",
