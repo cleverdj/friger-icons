@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-11T09:30:49.699273",
+  "last_updated": "2025-12-12T06:09:43.439389",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1784,15 +1784,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-11T07:22:34.624720"
-    },
-    "대하": {
-      "name_en": "item_JPEG_20251211_072439_820532900704175840",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251211_072439_820532900704175840.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-11T07:24:48.056599"
     },
     "날치알": {
       "name_en": "item_JPEG_20251211_092137_4480881093845270784",
