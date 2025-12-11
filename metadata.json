@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:09:43.439389",
+  "last_updated": "2025-12-12T06:16:04.930141",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1811,6 +1811,60 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-11T09:30:41.307719"
+    },
+    "맛살": {
+      "name_en": "item_JPEG_20251212_061003_4373966705143338049",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061003_4373966705143338049.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:15:58.288982"
+    },
+    "크래미": {
+      "name_en": "item_JPEG_20251212_061003_2629423087218129044",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061003_2629423087218129044.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:15:59.502536"
+    },
+    "치킨너겟": {
+      "name_en": "item_JPEG_20251212_061003_3120892488239772464",
+      "category": "냉동식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061003_3120892488239772464.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:16:01.361091"
+    },
+    "민두": {
+      "name_en": "item_JPEG_20251212_061003_539987515760571611",
+      "category": "냉동식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061003_539987515760571611.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:16:02.488277"
+    },
+    "대하": {
+      "name_en": "item_JPEG_20251212_061148_6397868057512595113",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061148_6397868057512595113.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:16:03.822438"
+    },
+    "새우": {
+      "name_en": "item_JPEG_20251212_061335_6304258512491408922",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061335_6304258512491408922.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:16:04.930120"
     }
   }
 }
