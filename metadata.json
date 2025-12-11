@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:16:04.930141",
+  "last_updated": "2025-12-12T06:23:07.242298",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1865,6 +1865,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-12T06:16:04.930120"
+    },
+    "도토리묵": {
+      "name_en": "item_JPEG_20251212_062209_75658926203716463",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_062209_75658926203716463.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:23:07.242283"
     }
   }
 }
