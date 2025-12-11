@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:46:05.014292",
+  "last_updated": "2025-12-12T06:47:35.148557",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -794,15 +794,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:32:44.073157"
-    },
-    "라임": {
-      "name_en": "item_1765001317700_105",
-      "category": "과일류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317700_105.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:32:45.285226"
     },
     "옥수수": {
       "name_en": "item_1765001317700_106",
