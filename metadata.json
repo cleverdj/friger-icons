@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:34:02.566916",
+  "last_updated": "2025-12-12T06:45:42.072049",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1073,15 +1073,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:33:23.785333"
-    },
-    "망고": {
-      "name_en": "item_1765001317701_136",
-      "category": "과일류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_136.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:33:25.547372"
     },
     "딸기": {
       "name_en": "item_1765001317701_137",
