@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:27:31.107844",
+  "last_updated": "2025-12-12T06:29:00.190328",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1820,15 +1820,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-12T06:15:58.288982"
-    },
-    "치킨너겟": {
-      "name_en": "item_JPEG_20251212_061003_3120892488239772464",
-      "category": "냉동식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_061003_3120892488239772464.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-12T06:16:01.361091"
     },
     "민두": {
       "name_en": "item_JPEG_20251212_061003_539987515760571611",
