@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T06:47:35.148557",
+  "last_updated": "2025-12-12T06:47:53.249284",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1865,6 +1865,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-12T06:46:05.014281"
+    },
+    "라임": {
+      "name_en": "item_JPEG_20251212_064745_1834882690247284699",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_064745_1834882690247284699.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-12T06:47:53.249278"
     }
   }
 }
