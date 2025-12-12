@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T07:07:26.220758",
+  "last_updated": "2025-12-13T07:22:26.728403",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1946,6 +1946,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T07:07:26.220744"
+    },
+    "피자치즈": {
+      "name_en": "item_JPEG_20251213_072202_49519691969069762",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_072202_49519691969069762.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T07:22:26.728391"
     }
   }
 }
