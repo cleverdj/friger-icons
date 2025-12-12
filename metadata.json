@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-12T08:05:22.718764",
+  "last_updated": "2025-12-13T06:36:28.425766",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1919,6 +1919,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-12T08:05:22.718755"
+    },
+    "명란젓": {
+      "name_en": "item_JPEG_20251213_063615_7466150589562604617",
+      "category": "젓갈",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_063615_7466150589562604617.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T06:36:28.425753"
     }
   }
 }
