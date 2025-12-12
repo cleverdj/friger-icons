@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T06:48:24.998326",
+  "last_updated": "2025-12-13T06:51:51.059223",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1937,6 +1937,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T06:48:24.998319"
+    },
+    "다시마": {
+      "name_en": "item_JPEG_20251213_065136_8676177994577924628",
+      "category": "해조류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_065136_8676177994577924628.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T06:51:51.059214"
     }
   }
 }
