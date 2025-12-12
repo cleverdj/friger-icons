@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T08:10:57.052405",
+  "last_updated": "2025-12-13T08:18:25.140435",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1982,6 +1982,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T08:10:57.052394"
+    },
+    "갓김치": {
+      "name_en": "item_JPEG_20251213_081800_2443825896810467818",
+      "category": "김치",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_081800_2443825896810467818.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T08:18:25.140428"
     }
   }
 }
