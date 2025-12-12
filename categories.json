@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-13T08:11:14.007825",
+  "lastUpdated": "2025-12-13T08:20:41.763155",
   "groups": [
     {
       "id": "fresh",
@@ -201,7 +201,7 @@
     },
     {
       "id": "kimchi",
-      "name": "김치",
+      "name": "김치류",
       "nameEn": "kimchi",
       "groupId": "processed",
       "order": 5,
