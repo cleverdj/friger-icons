@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:16:09.255156",
+  "last_updated": "2025-12-13T12:16:21.223717",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -83,15 +83,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:30:40.572836"
-    },
-    "배추김치": {
-      "name_en": "item_1765001231980_10",
-      "category": "발효식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_10.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:30:41.685488"
     },
     "닭가슴살": {
       "name_en": "item_1765001231980_11",
@@ -2198,6 +2189,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:16:09.255152"
+    },
+    "배추김치": {
+      "name_en": "item_1765001231980_10",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231980_10.png",
+      "unit": "개",
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T12:16:21.223715"
     }
   }
 }
