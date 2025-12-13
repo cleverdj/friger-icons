@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T21:53:59.312351",
+  "last_updated": "2025-12-13T22:20:01.188153",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2351,6 +2351,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T21:53:59.312348"
+    },
+    "오트밀": {
+      "name_en": "item_JPEG_20251213_221952_8351503479597645651",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_221952_8351503479597645651.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T22:20:01.188146"
     }
   }
 }
