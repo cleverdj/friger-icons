@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:09:43.739640",
+  "last_updated": "2025-12-13T12:09:52.179531",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2163,15 +2163,6 @@
       "version": "1.0",
       "updated_at": "2025-12-13T09:32:02.591189"
     },
-    "살구잼": {
-      "name_en": "item_JPEG_20251213_092933_7834877028545655839",
-      "category": "소스",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_7834877028545655839.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-13T09:32:04.208497"
-    },
     "땅콩잼": {
       "name_en": "item_JPEG_20251213_092933_4916223686127112871",
       "category": "소스/잼",
@@ -2198,6 +2189,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:09:43.739637"
+    },
+    "살구잼": {
+      "name_en": "item_JPEG_20251213_092933_7834877028545655839",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_7834877028545655839.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T12:09:52.179527"
     }
   }
 }
