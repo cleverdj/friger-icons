@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T09:32:08.009040",
+  "last_updated": "2025-12-13T11:25:14.930770",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2192,12 +2192,12 @@
     },
     "땅콩잼": {
       "name_en": "item_JPEG_20251213_092933_4916223686127112871",
-      "category": "소스",
+      "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_4916223686127112871.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-13T09:32:08.009025"
+      "updated_at": "2025-12-13T11:25:14.930766"
     }
   }
 }
