@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T18:14:14.443419",
+  "last_updated": "2025-12-13T18:39:03.753615",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2270,6 +2270,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T18:14:14.443398"
+    },
+    "고구마전분": {
+      "name_en": "item_JPEG_20251213_183837_4388641030446878426",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_183837_4388641030446878426.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T18:39:00.895982"
+    },
+    "감자전분": {
+      "name_en": "item_JPEG_20251213_183837_8493896845607595313",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_183837_8493896845607595313.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T18:39:02.450399"
+    },
+    "옥수수전분": {
+      "name_en": "item_JPEG_20251213_183837_4792191814527237450",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_183837_4792191814527237450.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T18:39:03.753602"
     }
   }
 }
