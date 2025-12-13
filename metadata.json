@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T18:08:53.838596",
+  "last_updated": "2025-12-13T18:14:14.443419",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2261,6 +2261,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T18:08:53.838584"
+    },
+    "스팸": {
+      "name_en": "item_JPEG_20251213_181358_8879573233999857821",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_181358_8879573233999857821.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T18:14:14.443398"
     }
   }
 }
