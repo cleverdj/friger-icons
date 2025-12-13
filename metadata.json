@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:16:32.068228",
+  "last_updated": "2025-12-13T12:16:47.000568",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1091,15 +1091,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:33:30.338081"
-    },
-    "총각김치": {
-      "name_en": "item_1765001317701_141",
-      "category": "발효식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_141.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:33:31.572670"
     },
     "방울토마토": {
       "name_en": "item_1765001317701_142",
@@ -2198,6 +2189,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:16:32.068225"
+    },
+    "총각김치": {
+      "name_en": "item_1765001317701_141",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_141.png",
+      "unit": "개",
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T12:16:47.000565"
     }
   }
 }
