@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T18:51:47.762873",
+  "last_updated": "2025-12-13T21:51:09.066827",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2324,6 +2324,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T18:51:47.762863"
+    },
+    "메밀가루": {
+      "name_en": "item_JPEG_20251213_215040_1586945203863994425",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_215040_1586945203863994425.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T21:51:06.735551"
+    },
+    "아몬드가루": {
+      "name_en": "item_JPEG_20251213_215040_6686418877973342403",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_215040_6686418877973342403.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T21:51:07.961963"
+    },
+    "통밀가루": {
+      "name_en": "item_JPEG_20251213_215040_937197268807075146",
+      "category": "곡류&전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_215040_937197268807075146.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T21:51:09.066818"
     }
   }
 }
