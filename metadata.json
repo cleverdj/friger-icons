@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T17:48:04.417858",
+  "last_updated": "2025-12-13T18:08:53.838596",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2252,6 +2252,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T17:48:04.417851"
+    },
+    "후르츠칵테일": {
+      "name_en": "item_JPEG_20251213_180826_8634190189909585007",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_180826_8634190189909585007.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T18:08:53.838584"
     }
   }
 }
