@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:15:53.266270",
+  "last_updated": "2025-12-13T12:16:09.255156",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1974,15 +1974,6 @@
       "version": "1.0",
       "updated_at": "2025-12-13T08:10:57.052394"
     },
-    "갓김치": {
-      "name_en": "item_JPEG_20251213_081800_2443825896810467818",
-      "category": "김치",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_081800_2443825896810467818.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-13T08:18:25.140428"
-    },
     "호박씨": {
       "name_en": "item_JPEG_20251213_085514_2172630665817496910",
       "category": "견과류",
@@ -2198,6 +2189,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:15:53.266267"
+    },
+    "갓김치": {
+      "name_en": "item_JPEG_20251213_081800_2443825896810467818",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_081800_2443825896810467818.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T12:16:09.255152"
     }
   }
 }
