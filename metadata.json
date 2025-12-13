@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T21:53:38.788214",
+  "last_updated": "2025-12-13T21:53:49.391142",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1524,15 +1524,6 @@
       "version": "1.0",
       "updated_at": "2025-12-09T09:01:15.239361"
     },
-    "굴소스": {
-      "name_en": "item_JPEG_20251209_085643_2379081758845430430",
-      "category": "소스",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_2379081758845430430.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-09T09:01:16.923869"
-    },
     "올리브오일": {
       "name_en": "item_JPEG_20251209_085643_9100392293685940297",
       "category": "오일",
@@ -2351,6 +2342,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T21:53:38.788210"
+    },
+    "굴소스": {
+      "name_en": "item_JPEG_20251209_085643_2379081758845430430",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251209_085643_2379081758845430430.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T21:53:49.391139"
     }
   }
 }
