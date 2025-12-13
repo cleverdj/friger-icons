@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T17:40:54.595683",
+  "last_updated": "2025-12-13T17:48:04.417858",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2243,6 +2243,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T17:40:54.595674"
+    },
+    "옥수수콘": {
+      "name_en": "item_JPEG_20251213_174747_5388822899376664320",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_174747_5388822899376664320.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T17:48:04.417851"
     }
   }
 }
