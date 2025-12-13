@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T17:18:23.490067",
+  "last_updated": "2025-12-13T17:24:58.372955",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2207,6 +2207,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T17:18:23.490039"
+    },
+    "라면": {
+      "name_en": "item_JPEG_20251213_172445_3674871223646016690",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_172445_3674871223646016690.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T17:24:58.372945"
     }
   }
 }
