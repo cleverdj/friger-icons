@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T09:08:59.857280",
+  "last_updated": "2025-12-13T09:11:50.112923",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2090,15 +2090,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T09:07:24.419409"
-    },
-    "토마토소스": {
-      "name_en": "item_JPEG_20251213_090845_2641736382727779692",
-      "category": "소스",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_090845_2641736382727779692.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-13T09:08:59.857269"
     }
   }
 }
