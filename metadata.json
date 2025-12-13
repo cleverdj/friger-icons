@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:16:21.223717",
+  "last_updated": "2025-12-13T12:16:32.068228",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1110,15 +1110,6 @@
       "version": "1.0",
       "updated_at": "2025-12-06T15:33:32.901624"
     },
-    "열무김치": {
-      "name_en": "item_1765001317701_143",
-      "category": "발효식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_143.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:33:34.131026"
-    },
     "닭고기": {
       "name_en": "item_1765001231980_29",
       "category": "육류",
@@ -2198,6 +2189,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:16:21.223715"
+    },
+    "열무김치": {
+      "name_en": "item_1765001317701_143",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_143.png",
+      "unit": "개",
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T12:16:32.068225"
     }
   }
 }
