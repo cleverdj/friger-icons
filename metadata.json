@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T12:16:47.000568",
+  "last_updated": "2025-12-13T17:18:23.490067",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2198,6 +2198,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T12:16:47.000565"
+    },
+    "바질페스토": {
+      "name_en": "item_JPEG_20251213_171803_844849008858500215",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_171803_844849008858500215.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T17:18:23.490039"
     }
   }
 }
