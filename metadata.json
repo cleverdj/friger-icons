@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-13T09:12:27.444981",
+  "last_updated": "2025-12-13T09:32:08.009040",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2108,6 +2108,96 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-13T09:12:27.444967"
+    },
+    "오렌지마멀레이드": {
+      "name_en": "item_JPEG_20251213_092933_2214044282024007246",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_2214044282024007246.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:31:56.023345"
+    },
+    "무화과잼": {
+      "name_en": "item_JPEG_20251213_092933_8423144833639049581",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_8423144833639049581.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:31:57.151389"
+    },
+    "망고잼": {
+      "name_en": "item_JPEG_20251213_092933_2781826155611676986",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_2781826155611676986.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:31:58.272802"
+    },
+    "복숭아잼": {
+      "name_en": "item_JPEG_20251213_092933_8414357997345541173",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_8414357997345541173.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:31:59.929326"
+    },
+    "포도잼": {
+      "name_en": "item_JPEG_20251213_092933_7042541668273283819",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_7042541668273283819.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:01.152842"
+    },
+    "라즈베리잼": {
+      "name_en": "item_JPEG_20251213_092933_6783775964791698458",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_6783775964791698458.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:02.591189"
+    },
+    "살구잼": {
+      "name_en": "item_JPEG_20251213_092933_7834877028545655839",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_7834877028545655839.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:04.208497"
+    },
+    "블루베리잼": {
+      "name_en": "item_JPEG_20251213_092933_8885872100522802608",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_8885872100522802608.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:05.480170"
+    },
+    "사과잼": {
+      "name_en": "item_JPEG_20251213_092933_241353708914760626",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_241353708914760626.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:06.676378"
+    },
+    "땅콩잼": {
+      "name_en": "item_JPEG_20251213_092933_4916223686127112871",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_092933_4916223686127112871.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-13T09:32:08.009025"
     }
   }
 }
