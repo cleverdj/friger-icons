@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-14T15:25:27.438858",
+  "last_updated": "2025-12-14T15:25:51.175282",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -803,15 +803,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:32:47.946661"
-    },
-    "쌀": {
-      "name_en": "item_1765001317700_108",
-      "category": "곡류&전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317700_108.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:32:49.688167"
     },
     "메밀면": {
       "name_en": "item_1765001317700_109",
@@ -2441,6 +2432,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T15:25:27.438856"
+    },
+    "쌀": {
+      "name_en": "item_1765001317700_108",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317700_108.png",
+      "unit": "개",
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-14T15:25:51.175278"
     }
   }
 }
