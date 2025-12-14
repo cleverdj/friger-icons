@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-14T15:24:23.985353",
+  "last_updated": "2025-12-14T15:24:36.577985",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2217,15 +2217,6 @@
       "version": "1.0",
       "updated_at": "2025-12-13T18:39:00.895982"
     },
-    "감자전분": {
-      "name_en": "item_JPEG_20251213_183837_8493896845607595313",
-      "category": "곡류&전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_183837_8493896845607595313.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-13T18:39:02.450399"
-    },
     "아귀": {
       "name_en": "item_JPEG_20251213_184141_3414693591200575053",
       "category": "수산물",
@@ -2441,6 +2432,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T15:24:23.985349"
+    },
+    "감자전분": {
+      "name_en": "item_JPEG_20251213_183837_8493896845607595313",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_183837_8493896845607595313.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-14T15:24:36.577982"
     }
   }
 }
