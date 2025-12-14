@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-14T15:26:04.409426",
+  "last_updated": "2025-12-14T15:27:44.526820",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2441,6 +2441,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T15:26:04.409423"
+    },
+    "샤인머스캣": {
+      "name_en": "item_JPEG_20251214_152733_959433027826741260",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251214_152733_959433027826741260.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-14T15:27:44.526813"
     }
   }
 }
