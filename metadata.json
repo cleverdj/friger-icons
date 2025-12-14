@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-14T15:23:38.733351",
+  "last_updated": "2025-12-14T15:23:51.043396",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -2280,15 +2280,6 @@
       "version": "1.0",
       "updated_at": "2025-12-13T21:51:07.961963"
     },
-    "통밀가루": {
-      "name_en": "item_JPEG_20251213_215040_937197268807075146",
-      "category": "곡류&전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_215040_937197268807075146.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-13T21:51:09.066818"
-    },
     "불고기소스": {
       "name_en": "item_JPEG_20251209_200602_134356749700191020",
       "category": "소스/잼",
@@ -2441,6 +2432,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T15:23:38.733347"
+    },
+    "통밀가루": {
+      "name_en": "item_JPEG_20251213_215040_937197268807075146",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251213_215040_937197268807075146.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-14T15:23:51.043393"
     }
   }
 }
