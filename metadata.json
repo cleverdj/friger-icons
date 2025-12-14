@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-14T15:24:45.441768",
+  "last_updated": "2025-12-14T15:25:27.438858",
   "categories": {},
   "ingredients": {
     "전복": {
@@ -1073,15 +1073,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:33:27.983656"
-    },
-    "병아리콩": {
-      "name_en": "item_1765001317701_139",
-      "category": "곡류&전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_139.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:33:29.211436"
     },
     "복숭아": {
       "name_en": "item_1765001317701_140",
@@ -2441,6 +2432,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T15:24:45.441765"
+    },
+    "병아리콩": {
+      "name_en": "item_1765001317701_139",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001317701_139.png",
+      "unit": "개",
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-14T15:25:27.438856"
     }
   }
 }
