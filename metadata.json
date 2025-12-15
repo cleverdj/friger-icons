@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T06:13:28.754835",
+  "last_updated": "2025-12-16T06:15:45.375696",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2468,6 +2468,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-15T12:37:58.222137"
+    },
+    "표고버섯": {
+      "name_en": "item_JPEG_20251216_061532_2773273341153846214",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_061532_2773273341153846214.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T06:15:45.375683"
     }
   }
 }
