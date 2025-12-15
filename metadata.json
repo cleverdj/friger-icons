@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T06:22:59.551795",
+  "last_updated": "2025-12-16T06:25:42.865904",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -632,15 +632,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-06T15:32:18.044898"
-    },
-    "무": {
-      "name_en": "item_1765001231981_85",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1765001231981_85.png",
-      "unit": "개",
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-06T15:32:19.383697"
     },
     "팽이버섯": {
       "name_en": "item_1765001231982_89",
@@ -2468,15 +2459,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-16T06:18:30.141756"
-    },
-    "콩나물": {
-      "name_en": "item_JPEG_20251216_062251_2465386806977172073",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_062251_2465386806977172073.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-16T06:22:59.551782"
     }
   }
 }
