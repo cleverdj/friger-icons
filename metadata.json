@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T08:38:40.868655",
+  "last_updated": "2025-12-16T08:40:44.161494",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2495,6 +2495,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-16T08:38:40.868645"
+    },
+    "깍두기": {
+      "name_en": "item_JPEG_20251216_084033_3223585006026075750",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_084033_3223585006026075750.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T08:40:44.161482"
     }
   }
 }
