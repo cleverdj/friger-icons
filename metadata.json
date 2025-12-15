@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T06:36:00.979602",
+  "last_updated": "2025-12-16T06:44:09.704039",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2459,6 +2459,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-16T06:36:00.979592"
+    },
+    "등갈비": {
+      "name_en": "item_JPEG_20251216_064359_8053059916134919373",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_064359_8053059916134919373.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T06:44:09.704029"
     }
   }
 }
