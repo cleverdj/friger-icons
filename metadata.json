@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-15T12:37:31.087374",
+  "last_updated": "2025-12-15T12:37:58.222150",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2477,6 +2477,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-14T23:29:38.451951"
+    },
+    "두부면": {
+      "name_en": "item_JPEG_20251215_123741_202334367472621305",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251215_123741_202334367472621305.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-15T12:37:58.222137"
     }
   }
 }
