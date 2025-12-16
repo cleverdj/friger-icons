@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T09:07:43.624347",
+  "last_updated": "2025-12-16T09:09:10.349913",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2504,6 +2504,69 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-16T08:47:38.499995"
+    },
+    "참기름": {
+      "name_en": "item_JPEG_20251216_090757_2568921228342161046",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_2568921228342161046.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:00.751076"
+    },
+    "들기름": {
+      "name_en": "item_JPEG_20251216_090757_2087075900024717231",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_2087075900024717231.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:02.350464"
+    },
+    "코코넛오일": {
+      "name_en": "item_JPEG_20251216_090757_788940714458211603",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_788940714458211603.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:03.948926"
+    },
+    "해바라기씨유": {
+      "name_en": "item_JPEG_20251216_090757_6236954281963731589",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_6236954281963731589.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:05.551376"
+    },
+    "포도씨유": {
+      "name_en": "item_JPEG_20251216_090757_4813397854496170866",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_4813397854496170866.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:07.148133"
+    },
+    "카놀라유": {
+      "name_en": "item_JPEG_20251216_090757_8395706937108598520",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_8395706937108598520.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:08.748629"
+    },
+    "아보카도오일": {
+      "name_en": "item_JPEG_20251216_090757_8592858078339137303",
+      "category": "오일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251216_090757_8592858078339137303.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-16T09:09:10.349892"
     }
   }
 }
