@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-16T09:09:10.349913",
+  "last_updated": "2025-12-17T07:21:24.617517",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2567,6 +2567,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-16T09:09:10.349892"
+    },
+    "청양고추": {
+      "name_en": "item_JPEG_20251217_072116_1177311526928243583",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251217_072116_1177311526928243583.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-17T07:21:24.617504"
     }
   }
 }
