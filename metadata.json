@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-19T08:23:47.834176",
+  "last_updated": "2025-12-20T23:12:16.250859",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2585,6 +2585,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-19T08:23:47.834165"
+    },
+    "함박스테이크": {
+      "name_en": "item_JPEG_20251220_231201_99049730970013604",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251220_231201_99049730970013604.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-20T23:12:16.250845"
     }
   }
 }
