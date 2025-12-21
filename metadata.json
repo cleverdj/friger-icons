@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T13:49:48.751130",
+  "last_updated": "2025-12-21T13:53:07.888363",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2630,6 +2630,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T13:49:48.751116"
+    },
+    "루꼴라": {
+      "name_en": "item_JPEG_20251221_135259_6722638344266810148",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_135259_6722638344266810148.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T13:53:07.888351"
     }
   }
 }
