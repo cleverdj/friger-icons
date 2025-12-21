@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T18:19:40.138690",
+  "last_updated": "2025-12-21T18:28:01.561555",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -1650,15 +1650,6 @@
       "version": "1.0",
       "updated_at": "2025-12-12T06:52:32.396676"
     },
-    "볶음김치": {
-      "name_en": "item_JPEG_20251212_065447_5571282071286692566",
-      "category": "요리",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_065447_5571282071286692566.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-12T06:55:06.177652"
-    },
     "참치캔": {
       "name_en": "item_JPEG_20251212_065809_5374169051134596223",
       "category": "통조림",
@@ -2864,6 +2855,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T18:19:40.138683"
+    },
+    "볶음김치": {
+      "name_en": "item_JPEG_20251212_065447_5571282071286692566",
+      "category": "반찬류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251212_065447_5571282071286692566.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T18:28:01.561549"
     }
   }
 }
