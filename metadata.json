@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T18:30:08.042613",
+  "last_updated": "2025-12-21T18:30:28.115542",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2855,6 +2855,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T18:28:01.561549"
+    },
+    "생수": {
+      "name_en": "item_JPEG_20251221_183017_1934845839649801257",
+      "category": "음료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_183017_1934845839649801257.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T18:30:28.115538"
     }
   }
 }
