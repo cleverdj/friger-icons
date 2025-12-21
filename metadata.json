@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T18:16:25.050568",
+  "last_updated": "2025-12-21T18:19:22.410606",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2829,15 +2829,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T17:39:53.447095"
     },
-    "와인": {
-      "name_en": "item_JPEG_20251221_174340_5752197252258864982",
-      "category": "주류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_174340_5752197252258864982.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T17:43:47.668894"
-    },
     "피망": {
       "name_en": "item_JPEG_20251221_175047_4121599124127645559",
       "category": "채소류",
@@ -2864,15 +2855,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T18:05:55.796921"
-    },
-    "막걸리": {
-      "name_en": "item_JPEG_20251221_181617_7085820634681147923",
-      "category": "주류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_181617_7085820634681147923.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T18:16:25.050556"
     }
   }
 }
