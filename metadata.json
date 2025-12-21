@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T16:09:50.205217",
+  "last_updated": "2025-12-21T16:32:43.789780",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2622,15 +2622,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T13:45:40.791972"
     },
-    "파김치": {
-      "name_en": "item_JPEG_20251221_134939_6707515144473415209",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_134939_6707515144473415209.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T13:49:48.751116"
-    },
     "루꼴라": {
       "name_en": "item_JPEG_20251221_135259_6722638344266810148",
       "category": "채소류",
@@ -2810,6 +2801,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T16:09:50.205205"
+    },
+    "파김치": {
+      "name_en": "item_JPEG_20251221_134939_6707515144473415209",
+      "category": "김치류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_134939_6707515144473415209.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T16:32:43.789777"
     }
   }
 }
