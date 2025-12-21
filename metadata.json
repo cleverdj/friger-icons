@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T21:32:42.056426",
+  "last_updated": "2025-12-21T21:38:37.878035",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3062,6 +3062,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T21:32:42.056413"
+    },
+    "유산균": {
+      "name_en": "item_JPEG_20251221_213508_7945514529339053720",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_213508_7945514529339053720.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T21:38:37.878024"
     }
   }
 }
