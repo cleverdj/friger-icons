@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T23:18:40.049346",
+  "last_updated": "2025-12-21T23:19:29.651056",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3107,6 +3107,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T23:09:57.222010"
+    },
+    "항정살": {
+      "name_en": "item_JPEG_20251221_231913_1419029316688462578",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_231913_1419029316688462578.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T23:19:28.435430"
+    },
+    "닭절단육": {
+      "name_en": "item_JPEG_20251221_231913_6204517705880931273",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_231913_6204517705880931273.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T23:19:29.651028"
     }
   }
 }
