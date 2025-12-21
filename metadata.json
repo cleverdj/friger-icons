@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T21:43:51.438064",
+  "last_updated": "2025-12-21T21:46:56.570474",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3089,6 +3089,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T21:43:51.438056"
+    },
+    "휘핑크림": {
+      "name_en": "item_JPEG_20251221_214646_977497018010449949",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_214646_977497018010449949.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T21:46:56.570462"
     }
   }
 }
