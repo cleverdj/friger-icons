@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T13:57:53.002139",
+  "last_updated": "2025-12-21T14:06:43.954660",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2657,6 +2657,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T13:57:53.002131"
+    },
+    "크림치즈": {
+      "name_en": "item_JPEG_20251221_140625_4958166101506747863",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_140625_4958166101506747863.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T14:06:43.954647"
     }
   }
 }
