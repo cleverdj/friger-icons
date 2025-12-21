@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T14:52:05.885710",
+  "last_updated": "2025-12-21T15:10:22.920571",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2720,6 +2720,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T14:52:05.885703"
+    },
+    "푸룬": {
+      "name_en": "item_JPEG_20251221_151004_5341233865279889683",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_151004_5341233865279889683.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T15:10:22.920561"
     }
   }
 }
