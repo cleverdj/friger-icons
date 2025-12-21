@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T18:19:22.410606",
+  "last_updated": "2025-12-21T18:19:40.138690",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2855,6 +2855,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T18:05:55.796921"
+    },
+    "와인": {
+      "name_en": "item_JPEG_20251221_181931_6297403767123631702",
+      "category": "주류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_181931_6297403767123631702.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T18:19:40.138683"
     }
   }
 }
