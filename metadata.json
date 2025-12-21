@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T14:46:19.084550",
+  "last_updated": "2025-12-21T14:52:05.885710",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2711,6 +2711,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T14:46:19.084536"
+    },
+    "쯔유": {
+      "name_en": "item_JPEG_20251221_145144_6760360263138786810",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_145144_6760360263138786810.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T14:52:05.885703"
     }
   }
 }
