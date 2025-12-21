@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T23:00:08.218973",
+  "last_updated": "2025-12-21T23:00:28.698183",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3089,6 +3089,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T21:51:06.837015"
+    },
+    "곶감": {
+      "name_en": "item_JPEG_20251221_230019_3856051651790789522",
+      "category": "건조과일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_230019_3856051651790789522.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T23:00:28.698171"
     }
   }
 }
