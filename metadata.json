@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T15:30:38.528983",
+  "last_updated": "2025-12-21T15:33:47.294920",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2747,6 +2747,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T15:30:38.528980"
+    },
+    "딸기케이크": {
+      "name_en": "item_JPEG_20251221_153326_656312745430845735",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_153326_656312745430845735.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T15:33:45.967001"
+    },
+    "초코케이크": {
+      "name_en": "item_JPEG_20251221_153326_5305206976285210256",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_153326_5305206976285210256.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T15:33:47.294909"
     }
   }
 }
