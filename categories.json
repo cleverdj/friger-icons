@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-21T17:32:16.592581",
+  "lastUpdated": "2025-12-21T17:32:34.734943",
   "groups": [
     {
       "id": "fresh",
@@ -275,7 +275,7 @@
       "id": "sidedish",
       "name": "반찬류",
       "nameEn": "side dish",
-      "groupId": "fresh",
+      "groupId": "others",
       "order": 1000,
       "emoji": "🍱"
     }
