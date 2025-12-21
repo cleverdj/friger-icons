@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T23:05:07.965238",
+  "last_updated": "2025-12-21T23:09:57.222020",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3107,6 +3107,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T23:05:07.965227"
+    },
+    "부채살": {
+      "name_en": "item_JPEG_20251221_230943_2165204719248736657",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_230943_2165204719248736657.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T23:09:57.222010"
     }
   }
 }
