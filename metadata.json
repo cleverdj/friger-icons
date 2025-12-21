@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T21:46:56.570474",
+  "last_updated": "2025-12-21T21:49:05.083899",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2838,15 +2838,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T18:32:45.637366"
     },
-    "음료수": {
-      "name_en": "item_JPEG_20251221_173552_8351547280758258227",
-      "category": "음료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_173552_8351547280758258227.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T18:33:13.675298"
-    },
     "맘모스빵": {
       "name_en": "item_JPEG_20251221_183949_8595052320228884007",
       "category": "제과/제빵",
@@ -3090,14 +3081,14 @@
       "version": "1.0",
       "updated_at": "2025-12-21T21:43:51.438056"
     },
-    "휘핑크림": {
-      "name_en": "item_JPEG_20251221_214646_977497018010449949",
-      "category": "유제품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_214646_977497018010449949.png",
+    "탄산음료": {
+      "name_en": "item_JPEG_20251221_173552_8351547280758258227",
+      "category": "음료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_173552_8351547280758258227.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-21T21:46:56.570462"
+      "updated_at": "2025-12-21T21:49:05.083895"
     }
   }
 }
