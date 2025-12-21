@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-21T20:58:47.643655",
+  "last_updated": "2025-12-21T21:00:06.696462",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2972,6 +2972,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-21T20:58:47.643644"
+    },
+    "죽순": {
+      "name_en": "item_JPEG_20251221_205954_639685682919366123",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_205954_639685682919366123.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-21T21:00:06.696455"
     }
   }
 }
