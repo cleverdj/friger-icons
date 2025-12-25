@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:31:46.105032",
+  "last_updated": "2025-12-25T14:32:07.593393",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3035,6 +3035,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "토마호크": {
+      "name_en": "item_JPEG_20251225_143159_3784640692507940255",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_143159_3784640692507940255.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:32:07.593381"
     }
   }
 }
