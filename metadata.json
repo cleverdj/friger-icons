@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:26:01.101643",
+  "last_updated": "2025-12-25T14:26:12.364140",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3099,15 +3099,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T23:05:07.965227"
     },
-    "부채살": {
-      "name_en": "item_JPEG_20251221_230943_2165204719248736657",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_230943_2165204719248736657.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T23:09:57.222010"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -3134,15 +3125,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "항정살": {
-      "name_en": "item_JPEG_20251225_142550_7032837512128726407",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142550_7032837512128726407.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:26:01.101633"
     }
   }
 }
