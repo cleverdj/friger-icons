@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:30:55.623022",
+  "last_updated": "2025-12-25T14:31:03.592317",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3018,15 +3018,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T21:20:59.269006"
     },
-    "캐비어": {
-      "name_en": "item_JPEG_20251221_212348_5113695523917006921",
-      "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_212348_5113695523917006921.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T21:25:04.964345"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -3053,15 +3044,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "트러플": {
-      "name_en": "item_JPEG_20251225_143040_6634833696261163505",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_143040_6634833696261163505.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:30:55.623009"
     }
   }
 }
