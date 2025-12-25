@@ -1,0 +1,283 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-06T00:00:00.000Z",
+  "groups": [
+    {
+      "id": "fresh",
+      "name": "신선 식재료",
+      "order": 1
+    },
+    {
+      "id": "stored",
+      "name": "저장·가공 식재료",
+      "order": 2
+    },
+    {
+      "id": "seasoning",
+      "name": "조리 식재료 / 조미료류",
+      "order": 3
+    },
+    {
+      "id": "processed",
+      "name": "가공/편의식품",
+      "order": 4
+    },
+    {
+      "id": "carbs",
+      "name": "탄수화물 기반 식품",
+      "order": 5
+    },
+    {
+      "id": "beverages",
+      "name": "음료/주류",
+      "order": 6
+    },
+    {
+      "id": "others",
+      "name": "완제품/기타",
+      "order": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": "vegetables",
+      "name": "채소류",
+      "nameEn": "vegetables",
+      "groupId": "fresh",
+      "order": 1,
+      "emoji": "🥬"
+    },
+    {
+      "id": "fruits",
+      "name": "과일류",
+      "nameEn": "fruits",
+      "groupId": "fresh",
+      "order": 2,
+      "emoji": "🍎"
+    },
+    {
+      "id": "grains",
+      "name": "곡류 & 전분",
+      "nameEn": "grains_starch",
+      "groupId": "fresh",
+      "order": 3,
+      "emoji": "🌾"
+    },
+    {
+      "id": "meat",
+      "name": "육류",
+      "nameEn": "meat",
+      "groupId": "fresh",
+      "order": 4,
+      "emoji": "🥩"
+    },
+    {
+      "id": "poultry",
+      "name": "가금류",
+      "nameEn": "poultry",
+      "groupId": "fresh",
+      "order": 5,
+      "emoji": "🍗"
+    },
+    {
+      "id": "eggs",
+      "name": "계란류",
+      "nameEn": "eggs",
+      "groupId": "fresh",
+      "order": 6,
+      "emoji": "🥚"
+    },
+    {
+      "id": "seafood",
+      "name": "수산물",
+      "nameEn": "seafood",
+      "groupId": "fresh",
+      "order": 7,
+      "emoji": "🐟"
+    },
+    {
+      "id": "seaweed",
+      "name": "해조류",
+      "nameEn": "seaweed",
+      "groupId": "fresh",
+      "order": 8,
+      "emoji": "🌿"
+    },
+    {
+      "id": "nuts",
+      "name": "견과류",
+      "nameEn": "nuts",
+      "groupId": "stored",
+      "order": 1,
+      "emoji": "🥜"
+    },
+    {
+      "id": "dried_fruits",
+      "name": "건조과일",
+      "nameEn": "dried_fruits",
+      "groupId": "stored",
+      "order": 2,
+      "emoji": "🍇"
+    },
+    {
+      "id": "dried_seafood",
+      "name": "건어물",
+      "nameEn": "dried_seafood",
+      "groupId": "stored",
+      "order": 3,
+      "emoji": "🦑"
+    },
+    {
+      "id": "beans_tofu",
+      "name": "콩/두부/콩가공품",
+      "nameEn": "beans_tofu",
+      "groupId": "stored",
+      "order": 4,
+      "emoji": "🫘"
+    },
+    {
+      "id": "dairy",
+      "name": "유제품",
+      "nameEn": "dairy",
+      "groupId": "stored",
+      "order": 5,
+      "emoji": "🥛"
+    },
+    {
+      "id": "seasonings",
+      "name": "양념/조미료",
+      "nameEn": "seasonings",
+      "groupId": "seasoning",
+      "order": 1,
+      "emoji": "🧂"
+    },
+    {
+      "id": "spices",
+      "name": "향신료",
+      "nameEn": "spices",
+      "groupId": "seasoning",
+      "order": 2,
+      "emoji": "🌶️"
+    },
+    {
+      "id": "sauces",
+      "name": "소스",
+      "nameEn": "sauces",
+      "groupId": "seasoning",
+      "order": 3,
+      "emoji": "🫙"
+    },
+    {
+      "id": "oils",
+      "name": "오일",
+      "nameEn": "oils",
+      "groupId": "seasoning",
+      "order": 4,
+      "emoji": "🫒"
+    },
+    {
+      "id": "processed_food",
+      "name": "가공식품",
+      "nameEn": "processed_food",
+      "groupId": "processed",
+      "order": 1,
+      "emoji": "🥓"
+    },
+    {
+      "id": "frozen_food",
+      "name": "냉동식품",
+      "nameEn": "frozen_food",
+      "groupId": "processed",
+      "order": 2,
+      "emoji": "🧊"
+    },
+    {
+      "id": "instant_food",
+      "name": "즉석식품",
+      "nameEn": "instant_food",
+      "groupId": "processed",
+      "order": 3,
+      "emoji": "🍱"
+    },
+    {
+      "id": "canned_food",
+      "name": "통조림",
+      "nameEn": "canned_food",
+      "groupId": "processed",
+      "order": 4,
+      "emoji": "🥫"
+    },
+    {
+      "id": "kimchi",
+      "name": "김치",
+      "nameEn": "kimchi",
+      "groupId": "processed",
+      "order": 5,
+      "emoji": "🥬"
+    },
+    {
+      "id": "jeotgal",
+      "name": "젓갈",
+      "nameEn": "jeotgal",
+      "groupId": "processed",
+      "order": 6,
+      "emoji": "🦐"
+    },
+    {
+      "id": "rice_cake",
+      "name": "떡류",
+      "nameEn": "rice_cake",
+      "groupId": "carbs",
+      "order": 1,
+      "emoji": "🍡"
+    },
+    {
+      "id": "noodles",
+      "name": "면류",
+      "nameEn": "noodles",
+      "groupId": "carbs",
+      "order": 2,
+      "emoji": "🍜"
+    },
+    {
+      "id": "bakery",
+      "name": "제과/제빵",
+      "nameEn": "bakery",
+      "groupId": "carbs",
+      "order": 3,
+      "emoji": "🍞"
+    },
+    {
+      "id": "beverages",
+      "name": "음료",
+      "nameEn": "beverages",
+      "groupId": "beverages",
+      "order": 1,
+      "emoji": "🥤"
+    },
+    {
+      "id": "alcohol",
+      "name": "주류",
+      "nameEn": "alcohol",
+      "groupId": "beverages",
+      "order": 2,
+      "emoji": "🍺"
+    },
+    {
+      "id": "dishes",
+      "name": "요리",
+      "nameEn": "dishes",
+      "groupId": "others",
+      "order": 1,
+      "emoji": "🍳"
+    },
+    {
+      "id": "etc",
+      "name": "기타",
+      "nameEn": "etc",
+      "groupId": "others",
+      "order": 2,
+      "emoji": "📦"
+    }
+  ]
+}
