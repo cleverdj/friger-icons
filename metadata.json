@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T23:44:45.726216",
+  "last_updated": "2025-12-25T23:46:33.872959",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3125,6 +3125,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T23:44:45.726206"
+    },
+    "토란": {
+      "name_en": "item_JPEG_20251225_234625_5893070048352648800",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_234625_5893070048352648800.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T23:46:33.872944"
     }
   }
 }
