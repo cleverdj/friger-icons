@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:43:32.552816",
+  "last_updated": "2025-12-25T14:43:48.732080",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2864,6 +2864,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "쑥갓": {
+      "name_en": "item_JPEG_20251225_144342_1694015914606997062",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_144342_1694015914606997062.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:43:48.732068"
     }
   }
 }
