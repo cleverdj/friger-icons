@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-26T08:50:33.245464",
+  "last_updated": "2025-12-26T08:50:40.926002",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -2135,15 +2135,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:26:04.648315"
-    },
-    "참기름": {
-      "name_en": "item_JPEG_20251225_173457_5267494532613406157",
-      "category": "오일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173457_5267494532613406157.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:26:06.597278"
     },
     "청양고추": {
       "name_en": "item_JPEG_20251225_173457_7882135391022434322",
