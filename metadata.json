@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:24:50.133895",
+  "last_updated": "2025-12-25T14:25:25.570124",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3143,6 +3143,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "닭절단육": {
+      "name_en": "item_JPEG_20251225_142515_5834407253674680740",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142515_5834407253674680740.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:25:25.570110"
     }
   }
 }
