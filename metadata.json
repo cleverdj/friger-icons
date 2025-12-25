@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:27:46.196547",
+  "last_updated": "2025-12-25T14:27:54.051376",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3072,15 +3072,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T21:49:05.083895"
     },
-    "이온음료": {
-      "name_en": "item_JPEG_20251221_215056_3885100477871141950",
-      "category": "음료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_215056_3885100477871141950.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T21:51:06.837015"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -3107,15 +3098,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "곶감": {
-      "name_en": "item_JPEG_20251225_142737_5396283615909883735",
-      "category": "건조과일",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142737_5396283615909883735.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:27:46.196535"
     }
   }
 }
