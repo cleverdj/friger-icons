@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-26T08:37:49.389249",
+  "last_updated": "2025-12-26T08:38:31.656498",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -2054,15 +2054,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:25:52.569490"
-    },
-    "콩나물": {
-      "name_en": "item_JPEG_20251225_173456_4972532980488599856",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173456_4972532980488599856.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:25:53.592510"
     },
     "감자": {
       "name_en": "item_JPEG_20251225_173456_1664144652291242101",
