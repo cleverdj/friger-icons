@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-25T15:08:06.853516",
+  "lastUpdated": "2025-12-25T18:26:54.364148",
   "groups": [
     {
       "id": "fresh",
@@ -57,7 +57,7 @@
     },
     {
       "id": "grains",
-      "name": "곡류 & 전분",
+      "name": "곡류/전분",
       "nameEn": "grains_starch",
       "groupId": "fresh",
       "order": 3,
