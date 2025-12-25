@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:28:57.443340",
+  "last_updated": "2025-12-25T14:29:21.703175",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3080,6 +3080,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "파마산치즈": {
+      "name_en": "item_JPEG_20251225_142908_217099725629506437",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142908_217099725629506437.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:29:21.703164"
     }
   }
 }
