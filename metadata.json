@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T23:34:12.483007",
+  "last_updated": "2025-12-25T23:35:41.979589",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3089,6 +3089,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T23:34:12.482992"
+    },
+    "아오리사과": {
+      "name_en": "item_JPEG_20251225_233532_8223600192965619833",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_233532_8223600192965619833.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T23:35:41.979577"
     }
   }
 }
