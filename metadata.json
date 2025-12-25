@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T23:10:33.980297",
+  "last_updated": "2025-12-25T23:13:16.651058",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -2972,6 +2972,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T23:10:33.980289"
+    },
+    "멜론": {
+      "name_en": "item_JPEG_20251225_231309_4227024506437811195",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_231309_4227024506437811195.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T23:13:16.651047"
     }
   }
 }
