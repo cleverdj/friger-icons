@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:32:07.593393",
+  "last_updated": "2025-12-25T14:34:12.623095",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3000,15 +3000,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T21:14:11.505787"
     },
-    "토란": {
-      "name_en": "item_JPEG_20251221_211632_5595201767349934569",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_211632_5595201767349934569.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T21:16:41.092597"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -3035,15 +3026,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "토마호크": {
-      "name_en": "item_JPEG_20251225_143159_3784640692507940255",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_143159_3784640692507940255.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:32:07.593381"
     }
   }
 }
