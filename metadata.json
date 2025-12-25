@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T23:40:21.952416",
+  "last_updated": "2025-12-25T23:42:00.664796",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3116,6 +3116,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T23:40:21.952403"
+    },
+    "파파야": {
+      "name_en": "item_JPEG_20251225_234152_5636071243128734396",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_234152_5636071243128734396.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T23:42:00.664784"
     }
   }
 }
