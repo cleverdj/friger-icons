@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T22:47:54.093105",
+  "last_updated": "2025-12-25T22:48:06.210965",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -416,15 +416,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:21:53.152873"
-    },
-    "생닭": {
-      "name_en": "item_JPEG_20251225_173447_8580143225490132306",
-      "category": "가금류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173447_8580143225490132306.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:21:54.382346"
     },
     "배추김치": {
       "name_en": "item_JPEG_20251225_173447_2199995402724177414",
@@ -2909,6 +2900,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T22:47:54.093102"
+    },
+    "생닭": {
+      "name_en": "item_JPEG_20251225_173447_8580143225490132306",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173447_8580143225490132306.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T22:48:06.210962"
     }
   }
 }
