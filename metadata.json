@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:43:57.153001",
+  "last_updated": "2025-12-25T14:44:27.230582",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2855,6 +2855,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "맘모스빵": {
+      "name_en": "item_JPEG_20251225_144410_488877515464864192",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_144410_488877515464864192.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:44:27.230566"
     }
   }
 }
