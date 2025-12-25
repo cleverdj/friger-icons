@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:29:30.306963",
+  "last_updated": "2025-12-25T14:29:50.476060",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3071,6 +3071,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "사워크림": {
+      "name_en": "item_JPEG_20251225_142942_8797686241321326074",
+      "category": "유제품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142942_8797686241321326074.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:29:50.476047"
     }
   }
 }
