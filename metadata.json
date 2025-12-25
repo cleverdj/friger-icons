@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:39:52.385493",
+  "last_updated": "2025-12-25T14:40:11.946875",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2909,6 +2909,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "사과식초": {
+      "name_en": "item_JPEG_20251225_144003_2421388076470178478",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_144003_2421388076470178478.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:40:11.946869"
     }
   }
 }
