@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T22:47:42.383371",
+  "last_updated": "2025-12-25T22:47:54.093105",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -794,15 +794,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:22:44.663747"
-    },
-    "닭다리": {
-      "name_en": "item_JPEG_20251225_173449_9158586409205457307",
-      "category": "가금류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_9158586409205457307.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:22:45.790026"
     },
     "호빵": {
       "name_en": "item_JPEG_20251225_173449_5046449623214929717",
@@ -2909,6 +2900,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T22:47:42.383367"
+    },
+    "닭다리": {
+      "name_en": "item_JPEG_20251225_173449_9158586409205457307",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_9158586409205457307.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T22:47:54.093102"
     }
   }
 }
