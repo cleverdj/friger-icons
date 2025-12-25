@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:28:12.900204",
+  "last_updated": "2025-12-25T14:28:22.923963",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -3063,15 +3063,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T21:43:51.438056"
     },
-    "탄산음료": {
-      "name_en": "item_JPEG_20251221_173552_8351547280758258227",
-      "category": "음료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_173552_8351547280758258227.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T21:49:05.083895"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -3098,15 +3089,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "이온음료": {
-      "name_en": "item_JPEG_20251225_142804_4184052469598795698",
-      "category": "음료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_142804_4184052469598795698.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:28:12.900192"
     }
   }
 }
