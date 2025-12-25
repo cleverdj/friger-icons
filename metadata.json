@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:39:10.626964",
+  "last_updated": "2025-12-25T14:39:18.594427",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2892,15 +2892,6 @@
       "version": "1.0",
       "updated_at": "2025-12-21T20:13:07.555904"
     },
-    "발사믹식초(W)": {
-      "name_en": "item_JPEG_20251221_201521_6825299289307822548",
-      "category": "양념/조미료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251221_201521_6825299289307822548.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-21T20:16:25.454387"
-    },
     "두릅": {
       "name_en": "item_JPEG_20251223_220154_7395604535558770148",
       "category": "채소류",
@@ -2927,15 +2918,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
-    },
-    "유자청": {
-      "name_en": "item_JPEG_20251225_143858_9188057751325871827",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_143858_9188057751325871827.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T14:39:10.626955"
     }
   }
 }
