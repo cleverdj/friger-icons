@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:37:56.779996",
+  "last_updated": "2025-12-25T14:38:14.802881",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2945,6 +2945,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "컵라면": {
+      "name_en": "item_JPEG_20251225_143807_5944543999180152405",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_143807_5944543999180152405.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:38:14.802871"
     }
   }
 }
