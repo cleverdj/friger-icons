@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-01-06T00:00:00.000Z",
+  "lastUpdated": "2025-12-25T15:07:21.646173",
   "groups": [
     {
       "id": "fresh",
@@ -270,14 +270,6 @@
       "groupId": "others",
       "order": 1,
       "emoji": "🍳"
-    },
-    {
-      "id": "etc",
-      "name": "기타",
-      "nameEn": "etc",
-      "groupId": "others",
-      "order": 2,
-      "emoji": "📦"
     }
   ]
 }
