@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:41:34.480413",
+  "last_updated": "2025-12-25T14:41:55.893945",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2900,6 +2900,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "발사믹식초": {
+      "name_en": "item_JPEG_20251225_144143_3823110035896883085",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_144143_3823110035896883085.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:41:55.893937"
     }
   }
 }
