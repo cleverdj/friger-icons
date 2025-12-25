@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T14:42:30.393459",
+  "last_updated": "2025-12-25T14:42:59.783962",
   "categories": {},
   "ingredients": {
     "오징어": {
@@ -2882,6 +2882,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T14:24:35.184490"
+    },
+    "체리": {
+      "name_en": "item_JPEG_20251225_144240_3517291914785232076",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_144240_3517291914785232076.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T14:42:59.783945"
     }
   }
 }
