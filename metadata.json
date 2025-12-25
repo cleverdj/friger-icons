@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-25T22:47:26.918293",
+  "last_updated": "2025-12-25T22:47:42.383371",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -1028,15 +1028,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:23:18.554687"
-    },
-    "닭정육": {
-      "name_en": "item_JPEG_20251225_173451_443114892096064347",
-      "category": "가금류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173451_443114892096064347.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:19.682610"
     },
     "멸치새우": {
       "name_en": "item_JPEG_20251225_173451_8975667400842184056",
@@ -2909,6 +2900,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T22:47:26.918290"
+    },
+    "닭정육": {
+      "name_en": "item_JPEG_20251225_173451_443114892096064347",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173451_443114892096064347.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-25T22:47:42.383367"
     }
   }
 }
