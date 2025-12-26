@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T07:35:42.194366",
+  "last_updated": "2025-12-27T07:37:30.724387",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3188,15 +3188,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T07:35:32.978639"
-    },
-    "카레가루": {
-      "name_en": "item_JPEG_20251227_073359_3801909336772742355",
-      "category": "가공식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_073359_3801909336772742355.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-27T07:35:34.196333"
     },
     "잡채": {
       "name_en": "item_JPEG_20251227_073359_5992981973347539212",
