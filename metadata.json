@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-26T23:58:36.867541",
+  "last_updated": "2025-12-27T00:03:17.128891",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -2676,15 +2676,6 @@
       "version": "1.0",
       "updated_at": "2025-12-25T19:27:15.922460"
     },
-    "트러플": {
-      "name_en": "item_JPEG_20251225_173459_4376030182268709894",
-      "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173459_4376030182268709894.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:27:17.254706"
-    },
     "드링킹요거트": {
       "name_en": "item_JPEG_20251225_173459_1349281835590296299",
       "category": "유제품",
@@ -3161,6 +3152,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-26T23:58:36.867532"
+    },
+    "트러플": {
+      "name_en": "item_JPEG_20251225_173459_4376030182268709894",
+      "category": "향신료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173459_4376030182268709894.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T00:03:17.125199"
     }
   }
 }
