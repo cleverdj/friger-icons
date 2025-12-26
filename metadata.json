@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T07:45:53.719192",
+  "last_updated": "2025-12-27T07:48:41.883740",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3269,6 +3269,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T07:45:53.719180"
+    },
+    "해물파전": {
+      "name_en": "item_JPEG_20251227_074829_7665563669545689315",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_074829_7665563669545689315.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T07:48:41.883727"
     }
   }
 }
