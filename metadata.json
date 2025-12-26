@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T07:55:24.714277",
+  "last_updated": "2025-12-27T07:57:35.158089",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3287,6 +3287,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T07:55:24.714265"
+    },
+    "찜닭": {
+      "name_en": "item_JPEG_20251227_075724_646712513482222795",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_075724_646712513482222795.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T07:57:35.158076"
     }
   }
 }
