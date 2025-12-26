@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-26T23:58:15.363074",
+  "last_updated": "2025-12-26T23:58:36.867541",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3152,6 +3152,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-26T08:51:11.645368"
+    },
+    "두부": {
+      "name_en": "item_JPEG_20251226_235829_8847362048320505821",
+      "category": "콩/두부/콩가공품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251226_235829_8847362048320505821.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-26T23:58:36.867532"
     }
   }
 }
