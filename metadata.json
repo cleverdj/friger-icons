@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T00:04:28.673680",
+  "last_updated": "2025-12-27T00:14:58.498759",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3161,6 +3161,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T00:04:28.673678"
+    },
+    "카레": {
+      "name_en": "item_JPEG_20251227_001430_9129938032512894591",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_001430_9129938032512894591.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T00:14:57.227512"
+    },
+    "짜장": {
+      "name_en": "item_JPEG_20251227_001431_3691394697604630378",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_001431_3691394697604630378.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T00:14:58.498753"
     }
   }
 }
