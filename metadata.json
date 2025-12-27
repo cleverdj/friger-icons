@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T08:09:25.262305",
+  "last_updated": "2025-12-28T08:09:40.679275",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3441,15 +3441,6 @@
       "version": "1.0",
       "updated_at": "2025-12-27T16:04:35.948662"
     },
-    "된장찌": {
-      "name_en": "item_JPEG_20251227_074320_7693590885455456680",
-      "category": "요리",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_074320_7693590885455456680.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-28T00:57:46.886063"
-    },
     "낙지젓": {
       "name_en": "item_JPEG_20251228_080915_7270849079318308016",
       "category": "젓갈",
@@ -3458,6 +3449,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T08:09:25.262300"
+    },
+    "된장찌개": {
+      "name_en": "item_JPEG_20251227_074320_7693590885455456680",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_074320_7693590885455456680.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T08:09:40.679270"
     }
   }
 }
