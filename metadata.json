@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T12:52:58.311105",
+  "last_updated": "2025-12-27T13:17:38.822531",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3395,6 +3395,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T12:52:58.311094"
+    },
+    "우삼겹": {
+      "name_en": "item_JPEG_20251227_131730_905754637161317089",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_131730_905754637161317089.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T13:17:38.822515"
     }
   }
 }
