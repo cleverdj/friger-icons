@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T13:29:25.793888",
+  "last_updated": "2025-12-27T13:30:14.211644",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3414,14 +3414,14 @@
       "version": "1.0",
       "updated_at": "2025-12-27T13:25:12.352630"
     },
-    "소불고기": {
+    "(소)불고기용": {
       "name_en": "item_JPEG_20251227_132905_6671815215035696326",
       "category": "육류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_132905_6671815215035696326.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-27T13:29:25.793877"
+      "updated_at": "2025-12-27T13:30:14.211639"
     }
   }
 }
