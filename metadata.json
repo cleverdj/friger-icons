@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T14:35:08.533333",
+  "last_updated": "2025-12-27T15:40:39.682602",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3431,6 +3431,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T14:35:08.533323"
+    },
+    "스테이크용": {
+      "name_en": "item_JPEG_20251227_154021_1010728468286192986",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_154021_1010728468286192986.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T15:40:39.682590"
     }
   }
 }
