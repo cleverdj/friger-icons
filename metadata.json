@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T09:33:09.760847",
+  "last_updated": "2025-12-27T10:29:12.491853",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3332,6 +3332,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T09:33:09.760839"
+    },
+    "팬케이크": {
+      "name_en": "item_JPEG_20251227_102902_9091245918927609163",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_102902_9091245918927609163.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T10:29:12.491842"
     }
   }
 }
