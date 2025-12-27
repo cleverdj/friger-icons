@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T10:33:24.304989",
+  "last_updated": "2025-12-27T10:39:34.890622",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3359,6 +3359,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T10:33:24.304980"
+    },
+    "마늘종": {
+      "name_en": "item_JPEG_20251227_103836_5261528715724438730",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_103836_5261528715724438730.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T10:39:34.890607"
     }
   }
 }
