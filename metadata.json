@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-27T09:20:43.055740",
+  "last_updated": "2025-12-27T09:23:40.122981",
   "categories": {},
   "ingredients": {
     "된장찌개": {
@@ -3314,6 +3314,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-27T09:20:43.055729"
+    },
+    "코다리찜": {
+      "name_en": "item_JPEG_20251227_092330_4117592061515954168",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_092330_4117592061515954168.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-27T09:23:40.122971"
     }
   }
 }
