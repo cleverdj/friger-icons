@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:34:05.199043",
+  "last_updated": "2025-12-28T20:35:07.763055",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3431,6 +3431,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:31:54.123534"
+    },
+    "낙지젓갈": {
+      "name_en": "item_JPEG_20251228_203420_1629119467500053099",
+      "category": "젓갈",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_1629119467500053099.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:35:03.257159"
+    },
+    "새우젓갈": {
+      "name_en": "item_JPEG_20251228_203420_3180718670722590575",
+      "category": "젓갈",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_3180718670722590575.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:35:05.203823"
+    },
+    "오징어젓갈": {
+      "name_en": "item_JPEG_20251228_203420_39280596151132775",
+      "category": "젓갈",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_39280596151132775.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:35:07.763042"
     }
   }
 }
