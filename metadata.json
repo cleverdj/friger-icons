@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:51:14.266990",
+  "last_updated": "2025-12-28T22:51:27.575389",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3027,15 +3027,6 @@
       "version": "1.0",
       "updated_at": "2025-12-27T15:40:39.682590"
     },
-    "꾸리살": {
-      "name_en": "item_JPEG_20251227_143451_6346097295205913158",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_143451_6346097295205913158.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-27T15:40:54.808078"
-    },
     "된장찌개": {
       "name_en": "item_JPEG_20251227_074320_7693590885455456680",
       "category": "요리",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:51:14.266987"
+    },
+    "꾸리살": {
+      "name_en": "item_JPEG_20251227_143451_6346097295205913158",
+      "category": "육류(소)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_143451_6346097295205913158.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:51:27.575386"
     }
   }
 }
