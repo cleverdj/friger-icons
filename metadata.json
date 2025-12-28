@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:24:14.855860",
+  "last_updated": "2025-12-28T20:24:51.425367",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3431,6 +3431,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:23:42.105"
+    },
+    "망고잼": {
+      "name_en": "item_JPEG_20251228_202426_1216609089140430712",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_1216609089140430712.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:24:49.057383"
+    },
+    "복숭아잼": {
+      "name_en": "item_JPEG_20251228_202426_8505971950412223777",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_8505971950412223777.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:24:50.308599"
+    },
+    "포도잼": {
+      "name_en": "item_JPEG_20251228_202426_8104184708086696397",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_8104184708086696397.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:24:51.425351"
     }
   }
 }
