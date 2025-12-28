@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:29:31.314109",
+  "last_updated": "2025-12-28T20:31:25.571131",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3449,15 +3449,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:29:02.089935"
-    },
-    "발사믹식초": {
-      "name_en": "item_JPEG_20251225_173459_8218387088885108016",
-      "category": "양념/조미료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173459_8218387088885108016.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-28T20:29:31.314106"
     }
   }
 }
