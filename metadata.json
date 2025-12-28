@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:26:44.994694",
+  "last_updated": "2025-12-28T20:28:13.627051",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1604,15 +1604,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:24:55.737833"
-    },
-    "땅콩버터": {
-      "name_en": "item_JPEG_20251225_173455_796158212878808338",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_796158212878808338.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:24:56.758803"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
