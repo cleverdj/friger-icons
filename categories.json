@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-28T22:50:05.762334",
+  "lastUpdated": "2025-12-29T06:05:47.482253",
   "groups": [
     {
       "id": "fresh",
@@ -278,14 +278,6 @@
       "groupId": "fresh",
       "order": 1000,
       "emoji": "🍗"
-    },
-    {
-      "id": "pig",
-      "name": "육류(돼지)",
-      "nameEn": "pig",
-      "groupId": "fresh",
-      "order": 1001,
-      "emoji": "🥩"
     }
   ]
 }
