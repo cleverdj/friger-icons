@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:42:23.884475",
+  "last_updated": "2025-12-28T20:42:45.409312",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3449,6 +3449,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:41:39.976536"
+    },
+    "참치캔": {
+      "name_en": "item_JPEG_20251228_204237_7011752357246526095",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_204237_7011752357246526095.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:42:45.409303"
     }
   }
 }
