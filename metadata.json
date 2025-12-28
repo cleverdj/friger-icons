@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:53:07.043776",
+  "last_updated": "2025-12-28T22:53:14.018272",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -893,15 +893,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:23:10.057336"
-    },
-    "(돼지)다짐육": {
-      "name_en": "item_JPEG_20251225_173450_185724894896540007",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173450_185724894896540007.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:11.081522"
     },
     "꽈리고추": {
       "name_en": "item_JPEG_20251225_173450_5071161021040350729",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:53:07.043772"
+    },
+    "(돼지)다짐육": {
+      "name_en": "item_JPEG_20251225_173450_185724894896540007",
+      "category": "육류(돼지)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173450_185724894896540007.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:53:14.018268"
     }
   }
 }
