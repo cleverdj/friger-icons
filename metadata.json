@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:24:07.789669",
+  "last_updated": "2025-12-28T20:24:14.855860",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1649,15 +1649,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:25:01.268195"
-    },
-    "포도잼": {
-      "name_en": "item_JPEG_20251225_173455_7930944908581902477",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_7930944908581902477.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:25:02.288464"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
