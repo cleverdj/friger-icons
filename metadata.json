@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:52:35.697384",
+  "last_updated": "2025-12-28T22:52:57.346788",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -956,15 +956,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:23:17.417030"
-    },
-    "(돼지)국거리용": {
-      "name_en": "item_JPEG_20251225_173451_8227157194538951056",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173451_8227157194538951056.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:18.554687"
     },
     "멸치새우": {
       "name_en": "item_JPEG_20251225_173451_8975667400842184056",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:52:35.697379"
+    },
+    "(돼지)국거리용": {
+      "name_en": "item_JPEG_20251225_173451_8227157194538951056",
+      "category": "육류(돼지)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173451_8227157194538951056.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:52:57.346785"
     }
   }
 }
