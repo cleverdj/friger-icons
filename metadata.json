@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:25:22.441372",
+  "last_updated": "2025-12-28T20:26:28.287893",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3431,6 +3431,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:24:51.425351"
+    },
+    "라즈베리잼": {
+      "name_en": "item_JPEG_20251228_202547_1247988690363161652",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_1247988690363161652.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:26:26.134462"
+    },
+    "살구잼": {
+      "name_en": "item_JPEG_20251228_202547_2310854507272651963",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_2310854507272651963.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:26:27.155852"
+    },
+    "블루베리잼": {
+      "name_en": "item_JPEG_20251228_202547_2420500487686107497",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_2420500487686107497.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:26:28.287883"
     }
   }
 }
