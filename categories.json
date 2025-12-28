@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-28T20:12:45.037172",
+  "lastUpdated": "2025-12-28T22:49:04.294662",
   "groups": [
     {
       "id": "fresh",
@@ -65,7 +65,7 @@
     },
     {
       "id": "meat",
-      "name": "육류",
+      "name": "육류(소)",
       "nameEn": "meat",
       "groupId": "fresh",
       "order": 4,
