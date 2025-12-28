@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-25T18:27:54.965381",
+  "lastUpdated": "2025-12-28T20:12:45.037172",
   "groups": [
     {
       "id": "fresh",
@@ -270,6 +270,14 @@
       "groupId": "others",
       "order": 1000,
       "emoji": "🍱"
+    },
+    {
+      "id": "poultry",
+      "name": "가금류",
+      "nameEn": "poultry",
+      "groupId": "fresh",
+      "order": 1000,
+      "emoji": "🍗"
     }
   ]
 }
