@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-29T06:08:21.921942",
+  "last_updated": "2025-12-29T06:08:40.340539",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3369,15 +3369,6 @@
       "version": "1.0",
       "updated_at": "2025-12-28T22:55:40.636677"
     },
-    "등심": {
-      "name_en": "item_JPEG_20251225_173450_4474852689210218170",
-      "category": "육류(소)",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173450_4474852689210218170.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-28T22:57:11.847782"
-    },
     "그릭요거트": {
       "name_en": "item_JPEG_20251229_060109_3328411146011664926",
       "category": "유제품",
@@ -3449,6 +3440,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-29T06:08:21.921937"
+    },
+    "등심": {
+      "name_en": "item_JPEG_20251225_173450_4474852689210218170",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173450_4474852689210218170.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-29T06:08:40.340535"
     }
   }
 }
