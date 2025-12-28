@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T13:34:48.257136",
+  "last_updated": "2025-12-28T20:13:06.486983",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3423,15 +3423,6 @@
       "version": "1.0",
       "updated_at": "2025-12-27T16:00:01.210480"
     },
-    "닭다리": {
-      "name_en": "item_JPEG_20251227_160427_1210415349975509391",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_160427_1210415349975509391.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-27T16:04:35.948662"
-    },
     "낙지젓": {
       "name_en": "item_JPEG_20251228_080915_7270849079318308016",
       "category": "젓갈",
@@ -3458,6 +3449,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T13:34:48.257123"
+    },
+    "닭다리": {
+      "name_en": "item_JPEG_20251227_160427_1210415349975509391",
+      "category": "가금류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_160427_1210415349975509391.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:13:06.486980"
     }
   }
 }
