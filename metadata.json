@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:22:57.847329",
+  "last_updated": "2025-12-28T20:23:11.897306",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1676,15 +1676,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:25:04.747487"
-    },
-    "무화과잼": {
-      "name_en": "item_JPEG_20251225_173455_7038106907568483413",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_7038106907568483413.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:25:07.106413"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
