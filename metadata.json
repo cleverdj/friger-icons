@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:52:06.700822",
+  "last_updated": "2025-12-28T22:52:35.697384",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2964,15 +2964,6 @@
       "version": "1.0",
       "updated_at": "2025-12-27T13:17:38.822515"
     },
-    "(돼지)등뼈": {
-      "name_en": "item_JPEG_20251227_132450_914043003016234598",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_132450_914043003016234598.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-27T13:25:12.352630"
-    },
     "(소)불고기용": {
       "name_en": "item_JPEG_20251227_132905_6671815215035696326",
       "category": "육류",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:52:06.700819"
+    },
+    "등뼈": {
+      "name_en": "item_JPEG_20251227_132450_914043003016234598",
+      "category": "육류(돼지)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_132450_914043003016234598.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:52:35.697379"
     }
   }
 }
