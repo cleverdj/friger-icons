@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:12:30.240690",
+  "last_updated": "2025-12-28T22:12:36.265552",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1487,15 +1487,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:24:42.031980"
-    },
-    "피칸": {
-      "name_en": "item_JPEG_20251225_173454_6176624887546790780",
-      "category": "견과류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173454_6176624887546790780.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:24:44.482074"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
