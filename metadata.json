@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:54:38.004564",
+  "last_updated": "2025-12-28T22:55:18.454801",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2919,15 +2919,6 @@
       "version": "1.0",
       "updated_at": "2025-12-27T13:17:38.822515"
     },
-    "스테이크용": {
-      "name_en": "item_JPEG_20251227_154021_1010728468286192986",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_154021_1010728468286192986.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-27T15:40:39.682590"
-    },
     "된장찌개": {
       "name_en": "item_JPEG_20251227_074320_7693590885455456680",
       "category": "요리",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:54:38.004560"
+    },
+    "스테이크용": {
+      "name_en": "item_JPEG_20251227_154021_1010728468286192986",
+      "category": "육류(소)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_154021_1010728468286192986.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:55:18.454799"
     }
   }
 }
