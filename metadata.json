@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:13:58.538838",
+  "last_updated": "2025-12-28T20:14:25.233063",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2522,15 +2522,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:27:00.253181"
-    },
-    "유자청": {
-      "name_en": "item_JPEG_20251225_173459_3648260726586834312",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173459_3648260726586834312.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:27:01.381527"
     },
     "삼치": {
       "name_en": "item_JPEG_20251225_173459_6760844180928127758",
