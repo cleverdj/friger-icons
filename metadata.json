@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:11:59.705601",
+  "last_updated": "2025-12-28T22:12:06.570818",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1532,15 +1532,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:24:50.407095"
-    },
-    "땅콩": {
-      "name_en": "item_JPEG_20251225_173455_563639848767647720",
-      "category": "견과류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_563639848767647720.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:24:51.537531"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
