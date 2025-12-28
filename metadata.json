@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T23:04:31.115906",
+  "last_updated": "2025-12-28T23:04:42.310088",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3360,15 +3360,6 @@
       "version": "1.0",
       "updated_at": "2025-12-28T22:52:06.700819"
     },
-    "(소)불고기용": {
-      "name_en": "item_JPEG_20251227_132905_6671815215035696326",
-      "category": "육류(소)",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_132905_6671815215035696326.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-28T22:53:27.691297"
-    },
     "대패삼겹": {
       "name_en": "item_JPEG_20251225_173447_2280194303504328709",
       "category": "육류(돼지)",
@@ -3451,13 +3442,13 @@
       "updated_at": "2025-12-28T23:04:05.507978"
     },
     "불고기용": {
-      "name_en": "item_JPEG_20251225_173450_4603844007776050083",
-      "category": "육류(돼지)",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173450_4603844007776050083.png",
+      "name_en": "item_JPEG_20251227_132905_6671815215035696326",
+      "category": "육류(소)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_132905_6671815215035696326.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T23:04:16.701803"
+      "updated_at": "2025-12-28T23:04:42.310085"
     }
   }
 }
