@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:40:35.445194",
+  "last_updated": "2025-12-28T20:40:42.097330",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1604,15 +1604,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:25:16.482632"
-    },
-    "후루츠칵테일": {
-      "name_en": "item_JPEG_20251225_173455_1088557988471739512",
-      "category": "통조림",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_1088557988471739512.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:25:17.444264"
     },
     "옥수수전분": {
       "name_en": "item_JPEG_20251225_173455_2506562630541779642",
