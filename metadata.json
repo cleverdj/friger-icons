@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:13:31.598512",
+  "last_updated": "2025-12-28T22:17:46.391826",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2720,15 +2720,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-26T08:51:11.645368"
-    },
-    "두부": {
-      "name_en": "item_JPEG_20251226_235829_8847362048320505821",
-      "category": "콩/두부/콩가공품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251226_235829_8847362048320505821.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-26T23:58:36.867532"
     },
     "트러플": {
       "name_en": "item_JPEG_20251225_173459_4376030182268709894",
