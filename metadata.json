@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:28:47.649905",
+  "last_updated": "2025-12-28T20:29:02.089947",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3413,6 +3413,51 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:26:28.287883"
+    },
+    "사과잼": {
+      "name_en": "item_JPEG_20251228_202715_1179286577692276677",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_1179286577692276677.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:28:55.947719"
+    },
+    "땅콩버터": {
+      "name_en": "item_JPEG_20251228_202715_6380932046500675916",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_6380932046500675916.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:28:57.072334"
+    },
+    "토마토소스": {
+      "name_en": "item_JPEG_20251228_202715_4507984310631728578",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_4507984310631728578.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:28:58.627415"
+    },
+    "딸기잼": {
+      "name_en": "item_JPEG_20251228_202715_4129445652020523907",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_4129445652020523907.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:28:59.834906"
+    },
+    "크림소스": {
+      "name_en": "item_JPEG_20251228_202715_5674373799686891688",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_5674373799686891688.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:29:02.089935"
     }
   }
 }
