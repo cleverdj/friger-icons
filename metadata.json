@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:13:39.488529",
+  "last_updated": "2025-12-28T20:13:46.013705",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2712,15 +2712,6 @@
       "version": "1.0",
       "updated_at": "2025-12-25T19:27:38.164723"
     },
-    "닭절단육": {
-      "name_en": "item_JPEG_20251225_173500_4158521980163887114",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173500_4158521980163887114.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:27:39.369762"
-    },
     "리치": {
       "name_en": "item_JPEG_20251225_173500_8342930485957841944",
       "category": "과일류",
@@ -3458,6 +3449,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:13:39.488526"
+    },
+    "닭절단육": {
+      "name_en": "item_JPEG_20251225_173500_4158521980163887114",
+      "category": "가금류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173500_4158521980163887114.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:13:46.013702"
     }
   }
 }
