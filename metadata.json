@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:19:28.751059",
+  "last_updated": "2025-12-28T20:19:42.009848",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -2306,15 +2306,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:26:34.348887"
-    },
-    "홀그레인머스타드": {
-      "name_en": "item_JPEG_20251225_173458_1424746458586602329",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_1424746458586602329.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:26:35.473003"
     },
     "아욱": {
       "name_en": "item_JPEG_20251225_173458_4576904087843211729",
