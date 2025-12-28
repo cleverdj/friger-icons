@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:40:48.245570",
+  "last_updated": "2025-12-28T20:41:39.976544",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3431,6 +3431,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T20:35:07.763042"
+    },
+    "옥수수통조림": {
+      "name_en": "item_JPEG_20251228_204101_4455701616832938140",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_204101_4455701616832938140.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:41:37.747132"
+    },
+    "후루츠칵테일": {
+      "name_en": "item_JPEG_20251228_204101_4775213269927626651",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_204101_4775213269927626651.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:41:38.796899"
+    },
+    "스팸햄": {
+      "name_en": "item_JPEG_20251228_204101_3885022791988686661",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_204101_3885022791988686661.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T20:41:39.976536"
     }
   }
 }
