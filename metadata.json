@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:57:11.847786",
+  "last_updated": "2025-12-28T22:57:29.392972",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -641,15 +641,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:22:33.399857"
-    },
-    "등갈비": {
-      "name_en": "item_JPEG_20251225_173449_6185458972862845356",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_6185458972862845356.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:22:34.528378"
     },
     "찜갈비": {
       "name_en": "item_JPEG_20251225_173449_4531853602368373243",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:57:11.847782"
+    },
+    "등갈비": {
+      "name_en": "item_JPEG_20251225_173449_6185458972862845356",
+      "category": "육류(돼지)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_6185458972862845356.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:57:29.392969"
     }
   }
 }
