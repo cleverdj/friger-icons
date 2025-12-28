@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T20:21:15.982528",
+  "last_updated": "2025-12-28T20:21:27.443",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -1694,15 +1694,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:25:09.558170"
-    },
-    "바질페스토": {
-      "name_en": "item_JPEG_20251225_173455_7753079259797263221",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173455_7753079259797263221.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:25:10.478930"
     },
     "봉지라면": {
       "name_en": "item_JPEG_20251225_173455_6707712918132877151",
