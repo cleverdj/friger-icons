@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-12-28T22:53:57.405091",
+  "last_updated": "2025-12-28T22:54:38.004564",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -353,15 +353,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:21:47.630137"
-    },
-    "대패삼겹": {
-      "name_en": "item_JPEG_20251225_173447_2280194303504328709",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173447_2280194303504328709.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:21:48.585233"
     },
     "햄": {
       "name_en": "item_JPEG_20251225_173447_9203798039442827698",
@@ -3467,6 +3458,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-28T22:53:57.405087"
+    },
+    "대패삼겹": {
+      "name_en": "item_JPEG_20251225_173447_2280194303504328709",
+      "category": "육류(돼지)",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173447_2280194303504328709.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2025-12-28T22:54:38.004560"
     }
   }
 }
