@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T19:46:45.676143",
+  "last_updated": "2026-01-01T19:47:45.141033",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3477,15 +3477,6 @@
       "version": "1.0",
       "updated_at": "2026-01-01T09:52:00.293810"
     },
-    "돼지목살": {
-      "name_en": "item_JPEG_20260101_095316_1536890447436016400",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_095316_1536890447436016400.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-01-01T09:53:29.276543"
-    },
     "(돼지)불고기/제육용": {
       "name_en": "item_JPEG_20260101_102400_2070500609229494120",
       "category": "육류",
@@ -3629,6 +3620,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T19:46:45.676134"
+    },
+    "(돼지)목살": {
+      "name_en": "item_JPEG_20260101_095316_1536890447436016400",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_095316_1536890447436016400.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T19:47:45.141028"
     }
   }
 }
