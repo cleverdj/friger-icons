@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T09:53:29.276551",
+  "last_updated": "2026-01-01T10:24:23.249701",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3494,6 +3494,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T09:53:29.276543"
+    },
+    "(돼지)불고기/제육용": {
+      "name_en": "item_JPEG_20260101_102400_2070500609229494120",
+      "category": "육류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_102400_2070500609229494120.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T10:24:23.249690"
     }
   }
 }
