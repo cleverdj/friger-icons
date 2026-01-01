@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T17:50:46.519824",
+  "last_updated": "2026-01-01T18:04:46.819196",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3575,6 +3575,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T17:50:46.519816"
+    },
+    "와사비": {
+      "name_en": "item_JPEG_20260101_180342_544568916021027803",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_180342_544568916021027803.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T18:04:46.819172"
     }
   }
 }
