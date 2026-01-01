@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T18:09:24.324778",
+  "last_updated": "2026-01-01T18:47:30.005454",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3602,6 +3602,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T18:09:24.324764"
+    },
+    "참치액": {
+      "name_en": "item_JPEG_20260101_184711_8967925640176590140",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_184711_8967925640176590140.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T18:47:30.005440"
     }
   }
 }
