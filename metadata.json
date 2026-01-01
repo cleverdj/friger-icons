@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T22:29:49.180248",
+  "last_updated": "2026-01-01T22:37:09.600605",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3746,6 +3746,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T22:29:49.180236"
+    },
+    "분쇄원두": {
+      "name_en": "item_JPEG_20260101_223652_3268866559241395257",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_223652_3268866559241395257.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T22:37:09.600593"
     }
   }
 }
