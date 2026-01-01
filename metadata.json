@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T22:03:18.033160",
+  "last_updated": "2026-01-01T22:29:49.180248",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3737,6 +3737,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T22:03:18.033148"
+    },
+    "커피원두": {
+      "name_en": "item_JPEG_20260101_222807_8552794016631750358",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_222807_8552794016631750358.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T22:29:49.180236"
     }
   }
 }
