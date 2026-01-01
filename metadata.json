@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T21:42:17.770547",
+  "last_updated": "2026-01-01T21:46:46.163003",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3692,6 +3692,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T21:42:17.770536"
+    },
+    "살사소스": {
+      "name_en": "item_JPEG_20260101_214637_7551398055087791347",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_214637_7551398055087791347.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T21:46:46.162994"
     }
   }
 }
