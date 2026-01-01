@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T18:07:16.344205",
+  "last_updated": "2026-01-01T18:09:24.324778",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3593,6 +3593,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T18:07:16.344195"
+    },
+    "마요네즈": {
+      "name_en": "item_JPEG_20260101_180915_1533340821221954256",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_180915_1533340821221954256.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T18:09:24.324764"
     }
   }
 }
