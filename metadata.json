@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T18:47:30.005454",
+  "last_updated": "2026-01-01T19:40:30.986428",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3611,6 +3611,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T18:47:30.005440"
+    },
+    "멸치액젓": {
+      "name_en": "item_JPEG_20260101_194010_1422132977892888373",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_194010_1422132977892888373.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T19:40:30.986417"
     }
   }
 }
