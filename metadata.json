@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T10:24:23.249701",
+  "last_updated": "2026-01-01T10:27:43.432018",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3395,15 +3395,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-29T06:09:10.811799"
-    },
-    "삼겹살": {
-      "name_en": "item_JPEG_20251225_173454_6293939736916476913",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173454_6293939736916476913.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-29T06:09:25.069716"
     },
     "부채살": {
       "name_en": "item_JPEG_20251225_173500_1499595377395973608",
