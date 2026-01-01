@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T21:19:58.379811",
+  "last_updated": "2026-01-01T21:24:37.002041",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3647,6 +3647,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T21:19:58.379799"
+    },
+    "파슬리": {
+      "name_en": "item_JPEG_20260101_212424_5859784180326672693",
+      "category": "향신료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_212424_5859784180326672693.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T21:24:37.002033"
     }
   }
 }
