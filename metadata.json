@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T18:04:46.819196",
+  "last_updated": "2026-01-01T18:07:16.344205",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3584,6 +3584,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T18:04:46.819172"
+    },
+    "메이플시럽": {
+      "name_en": "item_JPEG_20260101_180636_6142983819386247522",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_180636_6142983819386247522.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T18:07:16.344195"
     }
   }
 }
