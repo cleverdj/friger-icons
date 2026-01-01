@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T19:45:29.890549",
+  "last_updated": "2026-01-01T19:46:23.649083",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3620,15 +3620,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T19:45:28.554186"
-    },
-    "까나리액젓": {
-      "name_en": "item_JPEG_20260101_194501_4858433901102342665",
-      "category": "양념/조미료",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_194501_4858433901102342665.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-01-01T19:45:29.890535"
     }
   }
 }
