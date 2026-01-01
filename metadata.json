@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T09:52:00.293821",
+  "last_updated": "2026-01-01T09:53:09.137719",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3449,15 +3449,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-29T06:10:15.603905"
-    },
-    "돼지목살": {
-      "name_en": "item_JPEG_20260101_094306_8402931779899339223",
-      "category": "육류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_094306_8402931779899339223.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-01-01T09:45:08.543298"
     },
     "미트볼": {
       "name_en": "item_JPEG_20260101_094306_5423073856496863186",
