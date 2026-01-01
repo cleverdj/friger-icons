@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T21:59:27.819474",
+  "last_updated": "2026-01-01T22:03:18.033160",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3728,6 +3728,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T21:59:27.819465"
+    },
+    "가쓰오부시": {
+      "name_en": "item_JPEG_20260101_220307_8770746137038008797",
+      "category": "건어물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_220307_8770746137038008797.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T22:03:18.033148"
     }
   }
 }
