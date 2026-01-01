@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T21:37:52.946886",
+  "last_updated": "2026-01-01T21:42:17.770547",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3683,6 +3683,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T21:37:52.946876"
+    },
+    "초코잼": {
+      "name_en": "item_JPEG_20260101_214121_916479953064616048",
+      "category": "소스/잼",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_214121_916479953064616048.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T21:42:17.770536"
     }
   }
 }
