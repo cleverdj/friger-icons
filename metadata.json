@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-01T17:22:56.266491",
+  "last_updated": "2026-01-01T17:24:53.623091",
   "categories": {},
   "ingredients": {
     "밀가루": {
@@ -3539,6 +3539,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-01T17:22:56.266482"
+    },
+    "스킨케어": {
+      "name_en": "item_JPEG_20260101_172441_5253777377368589790",
+      "category": "화장품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_172441_5253777377368589790.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-01T17:24:53.623079"
     }
   }
 }
