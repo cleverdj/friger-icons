@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-03T21:31:43.477635",
+  "last_updated": "2026-01-03T21:31:54.763786",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -641,15 +641,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:22:39.236669"
-    },
-    "쌀": {
-      "name_en": "item_JPEG_20251225_173449_1243929626343350513",
-      "category": "곡류 & 전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_1243929626343350513.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:22:40.364108"
     },
     "펜네": {
       "name_en": "item_JPEG_20251225_173449_4535122590649620177",
@@ -3755,6 +3746,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-03T21:31:43.477634"
+    },
+    "쌀": {
+      "name_en": "item_JPEG_20251225_173449_1243929626343350513",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_1243929626343350513.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-03T21:31:54.763784"
     }
   }
 }
