@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-04T22:23:15.377626",
+  "last_updated": "2026-01-04T22:29:43.707665",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3764,6 +3764,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-04T22:23:15.377616"
+    },
+    "건망고": {
+      "name_en": "item_JPEG_20260104_222912_7385273000653253549",
+      "category": "건조과일",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260104_222912_7385273000653253549.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-04T22:29:43.707653"
     }
   }
 }
