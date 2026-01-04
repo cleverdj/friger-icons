@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-04T18:04:41.836337",
+  "last_updated": "2026-01-04T22:22:58.889588",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3737,15 +3737,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-02T01:57:19.375795"
-    },
-    "밀가루": {
-      "name_en": "item_JPEG_20251225_173443_4496947538697609301",
-      "category": "곡류/전분",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173443_4496947538697609301.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-01-03T21:31:43.477634"
     },
     "쌀": {
       "name_en": "item_JPEG_20251225_173449_1243929626343350513",
