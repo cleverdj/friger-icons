@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-03T21:31:54.763786",
+  "last_updated": "2026-01-04T18:04:41.836337",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3755,6 +3755,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-03T21:31:54.763784"
+    },
+    "물엿": {
+      "name_en": "item_JPEG_20260104_180428_7358095445259084682",
+      "category": "양념/조미료",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260104_180428_7358095445259084682.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-04T18:04:41.836330"
     }
   }
 }
