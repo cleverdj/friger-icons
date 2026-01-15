@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-15T22:54:13.544825",
+  "last_updated": "2026-01-15T22:55:02.272874",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3773,6 +3773,33 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-11T22:52:53.826984"
+    },
+    "메밀면": {
+      "name_en": "item_JPEG_20260115_225422_2007198480635161554",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260115_225422_2007198480635161554.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-15T22:54:57.279666"
+    },
+    "소면": {
+      "name_en": "item_JPEG_20260115_225423_6180774794763872365",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260115_225423_6180774794763872365.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-15T22:54:59.936562"
+    },
+    "스파게티면": {
+      "name_en": "item_JPEG_20260115_225423_5178493333167136691",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260115_225423_5178493333167136691.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-15T22:55:02.272867"
     }
   }
 }
