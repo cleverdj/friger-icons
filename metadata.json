@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-15T22:54:05.442444",
+  "last_updated": "2026-01-15T22:54:13.544825",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -623,15 +623,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2025-12-25T19:22:36.775973"
-    },
-    "모밀면": {
-      "name_en": "item_JPEG_20251225_173449_2520413172093555343",
-      "category": "면류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_2520413172093555343.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:22:38.008308"
     },
     "펜네": {
       "name_en": "item_JPEG_20251225_173449_4535122590649620177",
