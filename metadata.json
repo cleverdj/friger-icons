@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-15T23:04:51.897398",
+  "last_updated": "2026-01-24T16:32:46.574717",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3818,6 +3818,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-15T23:04:51.897387"
+    },
+    "달래": {
+      "name_en": "item_JPEG_20260124_163238_879318128534848629",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260124_163238_879318128534848629.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-24T16:32:46.574709"
     }
   }
 }
