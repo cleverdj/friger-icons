@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-28T22:36:17.649658",
+  "last_updated": "2026-01-28T22:42:24.112618",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3854,6 +3854,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-28T22:36:17.649652"
+    },
+    "쌀국수면": {
+      "name_en": "item_JPEG_20260128_224208_236255514106395187",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260128_224208_236255514106395187.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-28T22:42:24.112611"
     }
   }
 }
