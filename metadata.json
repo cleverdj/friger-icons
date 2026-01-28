@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-24T16:50:50.731123",
+  "last_updated": "2026-01-28T22:28:34.308587",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3836,6 +3836,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-24T16:50:50.731106"
+    },
+    "황태채": {
+      "name_en": "item_JPEG_20260128_222820_8616139437199498440",
+      "category": "건어물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260128_222820_8616139437199498440.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-28T22:28:34.308574"
     }
   }
 }
