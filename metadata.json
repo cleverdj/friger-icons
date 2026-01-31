@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-29T21:36:00.479605",
+  "last_updated": "2026-01-31T14:15:32.151964",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3872,6 +3872,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-29T21:36:00.479594"
+    },
+    "가자미": {
+      "name_en": "item_JPEG_20260131_141524_2333385975854888497",
+      "category": "수산물",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260131_141524_2333385975854888497.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-01-31T14:15:32.151954"
     }
   }
 }
