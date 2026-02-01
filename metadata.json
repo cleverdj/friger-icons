@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-01-31T14:15:32.151964",
+  "last_updated": "2026-02-01T21:55:49.955799",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3881,6 +3881,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-01-31T14:15:32.151954"
+    },
+    "블랙올리브": {
+      "name_en": "item_JPEG_20260201_215451_1412186428827574553",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260201_215451_1412186428827574553.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-02-01T21:55:48.825430"
+    },
+    "그린올리브": {
+      "name_en": "item_JPEG_20260201_215451_5051935116036687099",
+      "category": "통조림",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260201_215451_5051935116036687099.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-02-01T21:55:49.955790"
     }
   }
 }
