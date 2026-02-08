@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-01T17:21:35.155539",
+  "lastUpdated": "2026-02-08T22:14:26.127123",
   "groups": [
     {
       "id": "fresh",
@@ -286,6 +286,14 @@
       "groupId": "others",
       "order": 1001,
       "emoji": "📦"
+    },
+    {
+      "id": "snacks",
+      "name": "간식류",
+      "nameEn": "snacks",
+      "groupId": "processed",
+      "order": 1000,
+      "emoji": "🍡"
     }
   ]
 }
