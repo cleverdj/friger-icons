@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-02-08T22:12:38.112085",
+  "last_updated": "2026-02-08T22:14:43.113194",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3909,15 +3909,6 @@
       "version": "1.0",
       "updated_at": "2026-02-08T22:12:35.572283"
     },
-    "아이스크림": {
-      "name_en": "item_JPEG_20260208_221137_4944094142723528151",
-      "category": "냉동식품",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260208_221137_4944094142723528151.png",
-      "unit": null,
-      "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-02-08T22:12:36.796051"
-    },
     "번데기": {
       "name_en": "item_JPEG_20260208_221137_4032958440630263010",
       "category": "통조림",
@@ -3926,6 +3917,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-02-08T22:12:38.112073"
+    },
+    "아이스크림": {
+      "name_en": "item_JPEG_20260208_221137_4944094142723528151",
+      "category": "간식류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260208_221137_4944094142723528151.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-02-08T22:14:43.113191"
     }
   }
 }
