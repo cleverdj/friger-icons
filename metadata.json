@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-02-16T23:28:14.132233",
+  "last_updated": "2026-02-16T23:28:31.352502",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3947,12 +3947,12 @@
     },
     "코코넛밀크": {
       "name_en": "item_JPEG_20260216_232758_5645946023395009295",
-      "category": "음료",
+      "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260216_232758_5645946023395009295.png",
       "unit": null,
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-02-16T23:28:14.132221"
+      "updated_at": "2026-02-16T23:28:31.352499"
     }
   }
 }
