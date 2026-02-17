@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-02-16T23:28:31.352502",
+  "last_updated": "2026-02-17T13:52:28.185505",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3953,6 +3953,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-02-16T23:28:31.352499"
+    },
+    "동그랑땡": {
+      "name_en": "item_JPEG_20260217_135203_5906168878286784252",
+      "category": "냉동식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260217_135203_5906168878286784252.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-02-17T13:52:28.185497"
     }
   }
 }
