@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-02-17T13:54:56.493588",
+  "last_updated": "2026-03-02T16:28:52.444327",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3971,6 +3971,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-02-17T13:54:56.493585"
+    },
+    "렌틸콩": {
+      "name_en": "item_JPEG_20260302_162844_8414095744773949905",
+      "category": "콩/두부/콩가공품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260302_162844_8414095744773949905.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-03-02T16:28:52.444318"
     }
   }
 }
