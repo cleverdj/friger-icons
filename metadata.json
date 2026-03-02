@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-02T16:28:52.444327",
+  "last_updated": "2026-03-02T16:32:41.512059",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3980,6 +3980,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-03-02T16:28:52.444318"
+    },
+    "검은콩": {
+      "name_en": "item_JPEG_20260302_163227_8068190965873925468",
+      "category": "콩/두부/콩가공품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260302_163227_8068190965873925468.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-03-02T16:32:41.512048"
     }
   }
 }
