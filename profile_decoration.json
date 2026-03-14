@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-14T23:25:57.589015",
+  "last_updated": "2026-03-14T23:26:13.958471",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -58,6 +58,16 @@
         "updated_at": "2026-03-14T23:25:57.589009"
       }
     ],
-    "stickers": []
+    "stickers": [
+      {
+        "id": "JPEG_20260314_232607_8588552115744220283",
+        "name": "스티",
+        "name_en": "JPEG_20260314_232607_8588552115744220283",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/props/stickers/JPEG_20260314_232607_8588552115744220283.png",
+        "category": "stickers",
+        "version": "1.0",
+        "updated_at": "2026-03-14T23:26:13.958460"
+      }
+    ]
   }
 }
