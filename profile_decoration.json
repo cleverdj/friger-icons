@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-14T23:25:40.675245",
+  "last_updated": "2026-03-14T23:25:57.589015",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -47,7 +47,17 @@
         "updated_at": "2026-03-14T23:25:40.675233"
       }
     ],
-    "characters": [],
+    "characters": [
+      {
+        "id": "JPEG_20260314_232549_5601678096611981001",
+        "name": "새우",
+        "name_en": "JPEG_20260314_232549_5601678096611981001",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/props/characters/JPEG_20260314_232549_5601678096611981001.png",
+        "category": "characters",
+        "version": "1.0",
+        "updated_at": "2026-03-14T23:25:57.589009"
+      }
+    ],
     "stickers": []
   }
 }
