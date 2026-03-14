@@ -1,8 +1,18 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-14T22:56:55.052640",
+  "last_updated": "2026-03-14T23:00:04.586382",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
-  "backgrounds": [],
+  "backgrounds": [
+    {
+      "id": "JPEG_20260314_225957_4573920815000200938",
+      "name": "주방",
+      "name_en": "JPEG_20260314_225957_4573920815000200938",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/backgrounds/JPEG_20260314_225957_4573920815000200938.png",
+      "category": "backgrounds",
+      "version": "1.0",
+      "updated_at": "2026-03-14T23:00:04.586374"
+    }
+  ],
   "avatars": [],
   "props": {
     "food": [],
