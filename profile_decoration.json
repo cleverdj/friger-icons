@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-03-14T17:29:09.078228",
+  "backgrounds": [],
+  "avatars": [
+    {
+      "id": "JPEG_20260314_172844_3780349961511195257",
+      "name": "콜린",
+      "name_en": "JPEG_20260314_172844_3780349961511195257",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260314_172844_3780349961511195257.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-14T17:29:09.078223"
+    }
+  ],
+  "props": {
+    "food": [],
+    "kitchen": [],
+    "characters": [],
+    "stickers": []
+  }
+}
