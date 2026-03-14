@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-14T17:29:09.078228",
-  "backgrounds": [],
+  "last_updated": "2026-03-14T20:20:04.627300",
+  "backgrounds": [
+    {
+      "id": "JPEG_20260314_201951_711572689706009041",
+      "name": "바다",
+      "name_en": "JPEG_20260314_201951_711572689706009041",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/backgrounds/JPEG_20260314_201951_711572689706009041.png",
+      "category": "backgrounds",
+      "version": "1.0",
+      "updated_at": "2026-03-14T20:20:04.627296"
+    }
+  ],
   "avatars": [
     {
       "id": "JPEG_20260314_172844_3780349961511195257",
