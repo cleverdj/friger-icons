@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-14T23:00:04.586382",
+  "last_updated": "2026-03-14T23:00:20.442252",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -13,7 +13,17 @@
       "updated_at": "2026-03-14T23:00:04.586374"
     }
   ],
-  "avatars": [],
+  "avatars": [
+    {
+      "id": "JPEG_20260314_230014_264818748348969493",
+      "name": "콜린",
+      "name_en": "JPEG_20260314_230014_264818748348969493",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260314_230014_264818748348969493.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-14T23:00:20.442244"
+    }
+  ],
   "props": {
     "food": [],
     "kitchen": [],
