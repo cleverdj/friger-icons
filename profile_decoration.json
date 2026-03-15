@@ -1,18 +1,8 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T20:58:26.393074",
+  "last_updated": "2026-03-15T20:59:48.049149",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
-  "backgrounds": [
-    {
-      "id": "JPEG_20260315_205805_802349362919706045",
-      "name": "키친",
-      "name_en": "JPEG_20260315_205805_802349362919706045",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/backgrounds/JPEG_20260315_205805_802349362919706045.png",
-      "category": "backgrounds",
-      "version": "1.0",
-      "updated_at": "2026-03-15T20:58:26.393066"
-    }
-  ],
+  "backgrounds": [],
   "avatars": [
     {
       "id": "JPEG_20260315_205013_1718239087140752197",
