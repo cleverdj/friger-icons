@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T22:26:57.287727",
+  "last_updated": "2026-03-15T22:28:20.388315",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -188,17 +188,7 @@
   ],
   "props": {
     "food": [],
-    "kitchen": [
-      {
-        "id": "JPEG_20260315_222649_5776061776214840407",
-        "name": "창문",
-        "name_en": "JPEG_20260315_222649_5776061776214840407",
-        "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/props/kitchen/JPEG_20260315_222649_5776061776214840407.png",
-        "category": "kitchen",
-        "version": "1.0",
-        "updated_at": "2026-03-15T22:26:57.287717"
-      }
-    ],
+    "kitchen": [],
     "characters": [],
     "stickers": []
   }
