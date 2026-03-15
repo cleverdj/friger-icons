@@ -1,19 +1,9 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T17:55:12.237930",
+  "last_updated": "2026-03-15T18:24:56.322525",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [],
-  "avatars": [
-    {
-      "id": "JPEG_20260315_175458_7175327306281634292",
-      "name": "카도",
-      "name_en": "JPEG_20260315_175458_7175327306281634292",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_175458_7175327306281634292.png",
-      "category": "avatars",
-      "version": "1.0",
-      "updated_at": "2026-03-15T17:55:12.237923"
-    }
-  ],
+  "avatars": [],
   "props": {
     "food": [],
     "kitchen": [],
