@@ -1,19 +1,9 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T19:39:16.999110",
+  "last_updated": "2026-03-15T19:40:05.943190",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [],
-  "avatars": [
-    {
-      "id": "JPEG_20260315_193908_1057652044202317740",
-      "name": "ㅎㅎ",
-      "name_en": "JPEG_20260315_193908_1057652044202317740",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_193908_1057652044202317740.png",
-      "category": "avatars",
-      "version": "1.0",
-      "updated_at": "2026-03-15T19:39:16.999103"
-    }
-  ],
+  "avatars": [],
   "props": {
     "food": [],
     "kitchen": [],
