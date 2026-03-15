@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T20:50:32.782793",
+  "last_updated": "2026-03-15T20:57:33.945147",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [],
   "avatars": [
@@ -12,6 +12,15 @@
       "category": "avatars",
       "version": "1.0",
       "updated_at": "2026-03-15T20:50:23.041753"
+    },
+    {
+      "id": "JPEG_20260315_205725_6164151944213571430",
+      "name": "코니",
+      "name_en": "JPEG_20260315_205725_6164151944213571430",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_205725_6164151944213571430.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T20:57:33.945137"
     }
   ],
   "props": {
