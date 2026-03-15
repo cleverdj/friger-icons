@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T20:17:57.633552",
+  "last_updated": "2026-03-15T20:50:23.041763",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [],
   "avatars": [
@@ -12,6 +12,15 @@
       "category": "avatars",
       "version": "1.0",
       "updated_at": "2026-03-15T20:17:57.633546"
+    },
+    {
+      "id": "JPEG_20260315_205013_1718239087140752197",
+      "name": "카도",
+      "name_en": "JPEG_20260315_205013_1718239087140752197",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_205013_1718239087140752197.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T20:50:23.041753"
     }
   ],
   "props": {
