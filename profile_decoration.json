@@ -1,8 +1,18 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T20:59:48.049149",
+  "last_updated": "2026-03-15T21:00:08.984727",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
-  "backgrounds": [],
+  "backgrounds": [
+    {
+      "id": "JPEG_20260315_205954_6105204931570501462",
+      "name": "스무디",
+      "name_en": "JPEG_20260315_205954_6105204931570501462",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/backgrounds/JPEG_20260315_205954_6105204931570501462.png",
+      "category": "backgrounds",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:00:08.984718"
+    }
+  ],
   "avatars": [
     {
       "id": "JPEG_20260315_205013_1718239087140752197",
