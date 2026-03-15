@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-16T07:37:41.789047",
+  "last_updated": "2026-03-16T07:40:27.046933",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -202,6 +202,15 @@
       "category": "avatars",
       "version": "1.0",
       "updated_at": "2026-03-16T07:37:41.789040"
+    },
+    {
+      "id": "JPEG_20260316_074015_2366772467785424899",
+      "name": "소파",
+      "name_en": "JPEG_20260316_074015_2366772467785424899",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260316_074015_2366772467785424899.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-16T07:40:27.046923"
     }
   ],
   "props": {
