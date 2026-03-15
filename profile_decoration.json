@@ -1,22 +1,12 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T17:50:04.092793",
+  "last_updated": "2026-03-15T17:50:09.526102",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [],
   "avatars": [],
   "props": {
     "food": [],
-    "kitchen": [
-      {
-        "id": "JPEG_20260314_232532_4137791649078214332",
-        "name": "콩",
-        "name_en": "JPEG_20260314_232532_4137791649078214332",
-        "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/props/kitchen/JPEG_20260314_232532_4137791649078214332.png",
-        "category": "kitchen",
-        "version": "1.0",
-        "updated_at": "2026-03-14T23:25:40.675233"
-      }
-    ],
+    "kitchen": [],
     "characters": [
       {
         "id": "JPEG_20260314_232549_5601678096611981001",
