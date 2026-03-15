@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T21:00:20.139755",
+  "last_updated": "2026-03-15T21:04:40.031915",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -22,6 +22,168 @@
       "category": "avatars",
       "version": "1.0",
       "updated_at": "2026-03-15T20:57:33.945137"
+    },
+    {
+      "id": "JPEG_20260315_210037_2075271080620921773",
+      "name": "프키니",
+      "name_en": "JPEG_20260315_210037_2075271080620921773",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_2075271080620921773.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:14.227794"
+    },
+    {
+      "id": "JPEG_20260315_210037_5067002947933504905",
+      "name": "수바기",
+      "name_en": "JPEG_20260315_210037_5067002947933504905",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_5067002947933504905.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:15.666837"
+    },
+    {
+      "id": "JPEG_20260315_210037_4590096298003035946",
+      "name": "포테",
+      "name_en": "JPEG_20260315_210037_4590096298003035946",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_4590096298003035946.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:17.111433"
+    },
+    {
+      "id": "JPEG_20260315_210037_9187582211184765301",
+      "name": "레온",
+      "name_en": "JPEG_20260315_210037_9187582211184765301",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_9187582211184765301.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:18.634590"
+    },
+    {
+      "id": "JPEG_20260315_210037_2050529209374902384",
+      "name": "그랩",
+      "name_en": "JPEG_20260315_210037_2050529209374902384",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_2050529209374902384.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:20.286481"
+    },
+    {
+      "id": "JPEG_20260315_210037_5727151998797755160",
+      "name": "홍당이",
+      "name_en": "JPEG_20260315_210037_5727151998797755160",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_5727151998797755160.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:21.704176"
+    },
+    {
+      "id": "JPEG_20260315_210037_1110511970480021003",
+      "name": "버서니",
+      "name_en": "JPEG_20260315_210037_1110511970480021003",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_1110511970480021003.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:22.929775"
+    },
+    {
+      "id": "JPEG_20260315_210037_7354651469805129955",
+      "name": "블베리",
+      "name_en": "JPEG_20260315_210037_7354651469805129955",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_7354651469805129955.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:24.572507"
+    },
+    {
+      "id": "JPEG_20260315_210037_2334599144977630977",
+      "name": "애프니",
+      "name_en": "JPEG_20260315_210037_2334599144977630977",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_2334599144977630977.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:26.225023"
+    },
+    {
+      "id": "JPEG_20260315_210037_2370777069362335937",
+      "name": "피망",
+      "name_en": "JPEG_20260315_210037_2370777069362335937",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_2370777069362335937.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:27.848894"
+    },
+    {
+      "id": "JPEG_20260315_210037_7399829731480182315",
+      "name": "이토",
+      "name_en": "JPEG_20260315_210037_7399829731480182315",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_7399829731480182315.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:29.296381"
+    },
+    {
+      "id": "JPEG_20260315_210037_6649990044260899314",
+      "name": "모니",
+      "name_en": "JPEG_20260315_210037_6649990044260899314",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_6649990044260899314.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:30.816732"
+    },
+    {
+      "id": "JPEG_20260315_210037_6510675151841742008",
+      "name": "버선",
+      "name_en": "JPEG_20260315_210037_6510675151841742008",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210037_6510675151841742008.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:32.471805"
+    },
+    {
+      "id": "JPEG_20260315_210038_4765146223808479208",
+      "name": "파니",
+      "name_en": "JPEG_20260315_210038_4765146223808479208",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210038_4765146223808479208.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:33.890313"
+    },
+    {
+      "id": "JPEG_20260315_210038_1956368597336071744",
+      "name": "갸니",
+      "name_en": "JPEG_20260315_210038_1956368597336071744",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210038_1956368597336071744.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:35.340753"
+    },
+    {
+      "id": "JPEG_20260315_210038_1939977488740299050",
+      "name": "카도",
+      "name_en": "JPEG_20260315_210038_1939977488740299050",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210038_1939977488740299050.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:36.959908"
+    },
+    {
+      "id": "JPEG_20260315_210038_2031338931897059439",
+      "name": "홍피",
+      "name_en": "JPEG_20260315_210038_2031338931897059439",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210038_2031338931897059439.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:38.515416"
+    },
+    {
+      "id": "JPEG_20260315_210038_5719688044799491951",
+      "name": "콜리",
+      "name_en": "JPEG_20260315_210038_5719688044799491951",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_210038_5719688044799491951.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T21:04:40.031897"
     }
   ],
   "props": {
