@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-15T22:28:20.388315",
+  "last_updated": "2026-03-15T22:28:35.749697",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main",
   "backgrounds": [
     {
@@ -184,6 +184,15 @@
       "category": "avatars",
       "version": "1.0",
       "updated_at": "2026-03-15T21:04:40.031897"
+    },
+    {
+      "id": "JPEG_20260315_222828_4161544657072350879",
+      "name": "창문",
+      "name_en": "JPEG_20260315_222828_4161544657072350879",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/profile_decoration/avatars/JPEG_20260315_222828_4161544657072350879.png",
+      "category": "avatars",
+      "version": "1.0",
+      "updated_at": "2026-03-15T22:28:35.749687"
     }
   ],
   "props": {
