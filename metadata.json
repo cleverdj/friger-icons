@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-03-07T14:45:02.564165",
+  "last_updated": "2026-04-26T22:51:44.610263",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4007,6 +4007,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-03-07T14:45:02.564153"
+    },
+    "그린스무디": {
+      "name_en": "item_JPEG_20260426_225039_2982648661719036166",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260426_225039_2982648661719036166.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-04-26T22:51:44.610253"
     }
   }
 }
