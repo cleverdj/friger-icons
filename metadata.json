@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-04-26T22:51:44.610263",
+  "last_updated": "2026-05-18T22:14:47.233479",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4016,6 +4016,24 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-04-26T22:51:44.610253"
+    },
+    "냉면육수": {
+      "name_en": "item_JPEG_20260518_221343_4152558074278341281",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260518_221343_4152558074278341281.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-05-18T22:14:45.002838"
+    },
+    "냉면사리": {
+      "name_en": "item_JPEG_20260518_221343_7925180950789860359",
+      "category": "면류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260518_221343_7925180950789860359.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-05-18T22:14:47.233465"
     }
   }
 }
