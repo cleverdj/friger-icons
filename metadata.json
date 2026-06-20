@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-05-22T23:05:46.015766",
+  "last_updated": "2026-06-20T15:05:58.922992",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4043,6 +4043,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-05-22T23:05:46.015750"
+    },
+    "고추잎": {
+      "name_en": "item_JPEG_20260620_150547_8577274592196033480",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260620_150547_8577274592196033480.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-06-20T15:05:58.922980"
     }
   }
 }
