@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-06-20T15:05:58.922992",
+  "last_updated": "2026-07-17T14:21:20.588037",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4052,6 +4052,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-06-20T15:05:58.922980"
+    },
+    "피타브래드": {
+      "name_en": "item_JPEG_20260717_142059_3506331302953425616",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260717_142059_3506331302953425616.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-17T14:21:20.588025"
     }
   }
 }
