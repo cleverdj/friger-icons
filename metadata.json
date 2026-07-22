@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-07-22T18:01:54.642277",
+  "last_updated": "2026-07-22T18:31:56.877677",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4070,6 +4070,15 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-07-22T18:01:54.642268"
+    },
+    "산딸기": {
+      "name_en": "item_JPEG_20260722_183136_444448995660978885",
+      "category": "과일류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_183136_444448995660978885.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T18:31:56.877666"
     }
   }
 }
