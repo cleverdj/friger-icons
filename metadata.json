@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-07-22T18:31:56.877677",
+  "last_updated": "2026-07-22T19:10:10.006838",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4079,6 +4079,78 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-07-22T18:31:56.877666"
+    },
+    "이탈리안 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_5749728630481296266",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_5749728630481296266.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:09:55.293458"
+    },
+    "참깨 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_3745173894625603772",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_3745173894625603772.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:09:57.534509"
+    },
+    "콘샐러드 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_5337884340415725240",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_5337884340415725240.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:09:59.767297"
+    },
+    "발사믹 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_6522705941819574655",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_6522705941819574655.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:10:01.889418"
+    },
+    "칠리 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_2964799744742949693",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_2964799744742949693.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:10:03.941052"
+    },
+    "이탈리안 허브 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_7116060929668759281",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_7116060929668759281.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:10:05.856176"
+    },
+    "시저 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_634109772185460368",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_634109772185460368.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:10:07.988092"
+    },
+    "요거트 드레싱": {
+      "name_en": "item_JPEG_20260722_190545_7652920687994008018",
+      "category": "소스",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_7652920687994008018.png",
+      "unit": null,
+      "recommended": false,
+      "version": "1.0",
+      "updated_at": "2026-07-22T19:10:10.006825"
     }
   }
 }
