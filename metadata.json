@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-07-25T22:51:09.474Z",
+  "last_updated": "2026-07-25T22:53:34.092Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4151,14 +4151,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-07-22T19:10:10.006825"
-    },
-    "칠리드레싱": {
-      "name_en": "test",
-      "category": "소스/잼",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/test.png",
-      "unit": "개",
-      "recommended": false,
-      "updated_at": "2026-07-25T22:51:09.474Z"
     }
   }
 }
