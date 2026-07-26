@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-07-26T04:35:26.337Z",
+  "last_updated": "2026-07-26T04:36:10.103Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4151,15 +4151,6 @@
       "recommended": false,
       "version": "1.0",
       "updated_at": "2026-07-22T19:10:10.006825"
-    },
-    "테스트": {
-      "name_en": "item_1785040523240",
-      "category": "소스",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785040523240.png?v=1785040526336",
-      "unit": "g",
-      "recommended": false,
-      "version": "1785040526336",
-      "updated_at": "2026-07-26T04:35:26.336Z"
     }
   }
 }
