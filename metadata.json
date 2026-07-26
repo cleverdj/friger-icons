@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.26.06.57.06",
-  "last_updated": "2026-07-26T06:57:06.410Z",
+  "version": "2026.07.26.07.00.52",
+  "last_updated": "2026-07-26T07:00:52.923Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4168,6 +4168,15 @@
       "recommended": false,
       "version": "1785049026409",
       "updated_at": "2026-07-26T06:57:06.409Z"
+    },
+    "피스타치오": {
+      "name_en": "item_1785049249210",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785049249210.png?v=1785049252921",
+      "unit": "g",
+      "recommended": false,
+      "version": "1785049252921",
+      "updated_at": "2026-07-26T07:00:52.922Z"
     }
   }
 }
