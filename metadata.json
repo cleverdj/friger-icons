@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.26.12.37.51",
-  "last_updated": "2026-07-26T12:37:51.852Z",
+  "version": "2026.07.26.12.38.01",
+  "last_updated": "2026-07-26T12:38:01.589Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4090,13 +4090,12 @@
       "updated_at": "2026-07-22T19:09:55.293458"
     },
     "참깨 드레싱": {
-      "name_en": "item_JPEG_20260722_190545_3745173894625603772",
+      "name_en": "item_jpeg_20260722_190545_3745173894625603772",
       "category": "소스",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_3745173894625603772.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-07-22T19:09:57.534509"
+      "updated_at": "2026-07-26T12:38:01.589Z"
     },
     "콘샐러드 드레싱": {
       "name_en": "item_jpeg_20260722_190545_5337884340415725240",
