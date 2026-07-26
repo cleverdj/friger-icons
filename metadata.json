@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.26.06.48.11",
-  "last_updated": "2026-07-26T06:48:11.030Z",
+  "version": "2026.07.26.06.57.06",
+  "last_updated": "2026-07-26T06:57:06.410Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4159,6 +4159,15 @@
       "recommended": false,
       "version": "1785048491027",
       "updated_at": "2026-07-26T06:48:11.027Z"
+    },
+    "팥": {
+      "name_en": "item_1785049022035",
+      "category": "곡류/전분",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785049022035.png?v=1785049026409",
+      "unit": "g",
+      "recommended": false,
+      "version": "1785049026409",
+      "updated_at": "2026-07-26T06:57:06.409Z"
     }
   }
 }
