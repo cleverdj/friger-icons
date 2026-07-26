@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.26.12.37.02",
-  "last_updated": "2026-07-26T12:37:02.833Z",
+  "version": "2026.07.26.12.37.13",
+  "last_updated": "2026-07-26T12:37:13.842Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4135,13 +4135,12 @@
       "updated_at": "2026-07-22T19:10:05.856176"
     },
     "시저 드레싱": {
-      "name_en": "item_JPEG_20260722_190545_634109772185460368",
+      "name_en": "item_jpeg_20260722_190545_634109772185460368",
       "category": "소스",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_634109772185460368.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2026-07-22T19:10:07.988092"
+      "updated_at": "2026-07-26T12:37:13.842Z"
     },
     "요거트 드레싱": {
       "name_en": "item_jpeg_20260722_190545_7652920687994008018",
