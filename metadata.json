@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.26.07.03.27",
-  "last_updated": "2026-07-26T07:03:27.164Z",
+  "version": "2026.07.26.12.37.02",
+  "last_updated": "2026-07-26T12:37:02.833Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4147,9 +4147,9 @@
       "name_en": "item_jpeg_20260722_190545_7652920687994008018",
       "category": "소스",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_7652920687994008018.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-26T04:42:07.344Z"
+      "updated_at": "2026-07-26T12:37:02.833Z"
     },
     "푸주": {
       "name_en": "item_1785048487138",
