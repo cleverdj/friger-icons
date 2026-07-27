@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.07.58.31",
-  "last_updated": "2026-07-27T07:58:31.150Z",
+  "version": "2026.07.27.13.19.16",
+  "last_updated": "2026-07-27T13:19:16.408Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4138,6 +4138,15 @@
       "recommended": false,
       "version": "1785139111150",
       "updated_at": "2026-07-27T07:58:31.150Z"
+    },
+    "계란후라이": {
+      "name_en": "item_1785158352209",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785158352209.png?v=1785158356407",
+      "unit": "개",
+      "recommended": false,
+      "version": "1785158356407",
+      "updated_at": "2026-07-27T13:19:16.407Z"
     }
   }
 }
