@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.06.33.31",
-  "last_updated": "2026-07-27T06:33:31.162Z",
+  "version": "2026.07.27.06.34.04",
+  "last_updated": "2026-07-27T06:34:04.026Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1929,10 +1929,10 @@
       "name_en": "item_JPEG_20251225_173458_4055762193722335100",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_4055762193722335100.png",
-      "unit": "ml",
+      "unit": "병",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-07-27T06:33:31.161Z"
+      "updated_at": "2026-07-27T06:34:04.026Z"
     },
     "피망": {
       "name_en": "item_JPEG_20251225_173458_7453089280106292411",
@@ -1965,19 +1965,19 @@
       "name_en": "item_JPEG_20251225_173458_3618553208366640449",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_3618553208366640449.png",
-      "unit": "ml",
+      "unit": "병",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-07-27T06:33:31.161Z"
+      "updated_at": "2026-07-27T06:34:04.026Z"
     },
     "와인": {
       "name_en": "item_JPEG_20251225_173458_1168165598896522086",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_1168165598896522086.png",
-      "unit": "ml",
+      "unit": "병",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-07-27T06:33:31.161Z"
+      "updated_at": "2026-07-27T06:34:04.026Z"
     },
     "생수": {
       "name_en": "item_JPEG_20251225_173458_3690633479761248580",
