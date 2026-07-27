@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.43.04",
-  "last_updated": "2026-07-27T05:43:04.434Z",
+  "version": "2026.07.27.05.43.09",
+  "last_updated": "2026-07-27T05:43:09.592Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3235,13 +3235,12 @@
       "updated_at": "2025-12-29T06:01:46.155855"
     },
     "요거트": {
-      "name_en": "item_JPEG_20251229_060109_5596895225768603675",
+      "name_en": "item_jpeg_20251229_060109_5596895225768603675",
       "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251229_060109_5596895225768603675.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-29T06:01:47.297093"
+      "updated_at": "2026-07-27T05:43:09.591Z"
     },
     "(소)불고기용": {
       "name_en": "item_JPEG_20251227_132905_6671815215035696326",
