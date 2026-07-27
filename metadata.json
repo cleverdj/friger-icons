@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.03.00.06",
-  "last_updated": "2026-07-27T03:00:06.176Z",
+  "version": "2026.07.27.03.00.12",
+  "last_updated": "2026-07-27T03:00:12.145Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -931,13 +931,12 @@
       "updated_at": "2025-12-25T19:23:31.972293"
     },
     "굴소스": {
-      "name_en": "item_JPEG_20251225_173452_5567057344097928475",
-      "category": "소스",
+      "name_en": "item_jpeg_20251225_173452_5567057344097928475",
+      "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_5567057344097928475.png",
       "unit": null,
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:33.201632"
+      "updated_at": "2026-07-27T03:00:12.145Z"
     },
     "고추장": {
       "name_en": "item_JPEG_20251225_173452_6907868242730675058",
