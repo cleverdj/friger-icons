@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.02.58.29",
-  "last_updated": "2026-07-27T02:58:29.491Z",
+  "version": "2026.07.27.02.58.40",
+  "last_updated": "2026-07-27T02:58:40.855Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4099,11 +4099,11 @@
     },
     "콘샐러드 드레싱": {
       "name_en": "item_jpeg_20260722_190545_5337884340415725240",
-      "category": "소스",
+      "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_5337884340415725240.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-26T12:37:51.852Z"
+      "updated_at": "2026-07-27T02:58:40.855Z"
     },
     "발사믹 드레싱": {
       "name_en": "item_jpeg_20260722_190545_6522705941819574655",
