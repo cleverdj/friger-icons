@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.42.17",
-  "last_updated": "2026-07-27T05:42:17.816Z",
+  "version": "2026.07.27.05.42.28",
+  "last_updated": "2026-07-27T05:42:28.437Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1669,13 +1669,12 @@
       "updated_at": "2025-12-25T19:26:02.192782"
     },
     "해바라기씨유": {
-      "name_en": "item_JPEG_20251225_173457_1328442747951112574",
+      "name_en": "item_jpeg_20251225_173457_1328442747951112574",
       "category": "오일",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173457_1328442747951112574.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:26:03.318146"
+      "updated_at": "2026-07-27T05:42:28.437Z"
     },
     "코코넛오일": {
       "name_en": "item_jpeg_20251225_173457_4458443606950473187",
