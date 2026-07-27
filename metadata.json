@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.44.24",
-  "last_updated": "2026-07-27T05:44:24.093Z",
+  "version": "2026.07.27.05.44.36",
+  "last_updated": "2026-07-27T05:44:36.685Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -2153,9 +2153,9 @@
       "name_en": "item_jpeg_20251225_173459_1349281835590296299",
       "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173459_1349281835590296299.png",
-      "unit": "g",
+      "unit": "ml",
       "recommended": false,
-      "updated_at": "2026-07-27T05:43:36.435Z"
+      "updated_at": "2026-07-27T05:44:36.685Z"
     },
     "사워크림": {
       "name_en": "item_jpeg_20251225_173459_3710431073823597315",
