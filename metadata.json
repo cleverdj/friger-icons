@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.06.33.04",
-  "last_updated": "2026-07-27T06:33:04.624Z",
+  "version": "2026.07.27.06.33.31",
+  "last_updated": "2026-07-27T06:33:31.162Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1920,19 +1920,19 @@
       "name_en": "item_JPEG_20251225_173458_2656029081868135029",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_2656029081868135029.png",
-      "unit": null,
+      "unit": "ml",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:43.051902"
+      "updated_at": "2026-07-27T06:33:31.161Z"
     },
     "소주": {
       "name_en": "item_JPEG_20251225_173458_4055762193722335100",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_4055762193722335100.png",
-      "unit": null,
+      "unit": "ml",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:44.074295"
+      "updated_at": "2026-07-27T06:33:31.161Z"
     },
     "피망": {
       "name_en": "item_JPEG_20251225_173458_7453089280106292411",
@@ -1965,19 +1965,19 @@
       "name_en": "item_JPEG_20251225_173458_3618553208366640449",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_3618553208366640449.png",
-      "unit": null,
+      "unit": "ml",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:48.786665"
+      "updated_at": "2026-07-27T06:33:31.161Z"
     },
     "와인": {
       "name_en": "item_JPEG_20251225_173458_1168165598896522086",
       "category": "주류",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_1168165598896522086.png",
-      "unit": null,
+      "unit": "ml",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:49.915203"
+      "updated_at": "2026-07-27T06:33:31.161Z"
     },
     "생수": {
       "name_en": "item_JPEG_20251225_173458_3690633479761248580",
