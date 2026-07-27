@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.06.32.38",
-  "last_updated": "2026-07-27T06:32:38.452Z",
+  "version": "2026.07.27.06.33.04",
+  "last_updated": "2026-07-27T06:33:04.624Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -88,118 +88,118 @@
       "name_en": "item_JPEG_20251225_173444_5480809275226967337",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173444_5480809275226967337.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:05.235349"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "소금빵": {
       "name_en": "item_JPEG_20251225_173444_521539038035201172",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173444_521539038035201172.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:06.562026"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "크로와상": {
       "name_en": "item_JPEG_20251225_173445_122845998473296309",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_122845998473296309.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:07.810656"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "단팥빵": {
       "name_en": "item_JPEG_20251225_173445_4607913171505351353",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_4607913171505351353.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:08.918940"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "피자빵": {
       "name_en": "item_JPEG_20251225_173445_5287508945255833113",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_5287508945255833113.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:10.065241"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "소보로빵": {
       "name_en": "item_JPEG_20251225_173445_5815250478934265242",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_5815250478934265242.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:11.395415"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "크림빵": {
       "name_en": "item_JPEG_20251225_173445_2706851764467272118",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_2706851764467272118.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:12.501373"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "마늘빵": {
       "name_en": "item_JPEG_20251225_173445_788089186584926138",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_788089186584926138.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:13.834292"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "바게트": {
       "name_en": "item_JPEG_20251225_173445_2899988989691820619",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_2899988989691820619.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:15.061506"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "베이글": {
       "name_en": "item_JPEG_20251225_173445_1882085729246365107",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_1882085729246365107.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:16.499196"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "모닝빵": {
       "name_en": "item_JPEG_20251225_173445_7788603537675868248",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_7788603537675868248.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:17.726841"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "에그타르트": {
       "name_en": "item_JPEG_20251225_173445_5082460888320921636",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_5082460888320921636.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:18.837184"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "프레즐": {
       "name_en": "item_JPEG_20251225_173445_8681076745545456171",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173445_8681076745545456171.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:21:19.929718"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "멸균우유": {
       "name_en": "item_jpeg_20251225_173445_4326317970110596722",
@@ -646,10 +646,10 @@
       "name_en": "item_JPEG_20251225_173449_5046449623214929717",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173449_5046449623214929717.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:22:46.833330"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "애호박": {
       "name_en": "item_JPEG_20251225_173449_1548557372542200458",
@@ -1363,10 +1363,10 @@
       "name_en": "item_JPEG_20251225_173456_5415269240051782160",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173456_5415269240051782160.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:25:23.791359"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "도시락": {
       "name_en": "item_JPEG_20251225_173456_911398495743276830",
@@ -1839,28 +1839,28 @@
       "name_en": "item_JPEG_20251225_173458_7008143129012785105",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_7008143129012785105.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:31.787559"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "초코케이크": {
       "name_en": "item_JPEG_20251225_173458_2584300816976787532",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_2584300816976787532.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:33.218022"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "딸기케이크": {
       "name_en": "item_JPEG_20251225_173458_5045244554543300298",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_5045244554543300298.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:34.348887"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "아욱": {
       "name_en": "item_JPEG_20251225_173458_4576904087843211729",
@@ -2010,10 +2010,10 @@
       "name_en": "item_JPEG_20251225_173458_2008575314883547594",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_2008575314883547594.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:26:53.805176"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "패션후르츠": {
       "name_en": "item_JPEG_20251225_173459_8040348946239712162",
@@ -2725,19 +2725,19 @@
       "name_en": "item_JPEG_20251227_102902_9091245918927609163",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_102902_9091245918927609163.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-27T10:29:12.491842"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "붕어빵": {
       "name_en": "item_JPEG_20251227_103005_8913228446461023942",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251227_103005_8913228446461023942.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-27T10:30:14.241734"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "오뎅볶음": {
       "name_en": "item_JPEG_20251227_103308_8055786253188732866",
@@ -4017,10 +4017,10 @@
       "name_en": "item_JPEG_20260717_142059_3506331302953425616",
       "category": "제과/제빵",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260717_142059_3506331302953425616.png",
-      "unit": null,
+      "unit": "개",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-07-17T14:21:20.588025"
+      "updated_at": "2026-07-27T06:33:04.623Z"
     },
     "커피": {
       "name_en": "item_JPEG_20260722_180134_1039037244787255476",
