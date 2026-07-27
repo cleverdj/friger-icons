@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.02.59.35",
-  "last_updated": "2026-07-27T02:59:35.242Z",
+  "version": "2026.07.27.02.59.42",
+  "last_updated": "2026-07-27T02:59:42.291Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1039,13 +1039,12 @@
       "updated_at": "2025-12-25T19:23:50.813593"
     },
     "스테이크소스": {
-      "name_en": "item_JPEG_20251225_173452_536115264476208959",
-      "category": "소스",
+      "name_en": "item_jpeg_20251225_173452_536115264476208959",
+      "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_536115264476208959.png",
       "unit": null,
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:51.938642"
+      "updated_at": "2026-07-27T02:59:42.291Z"
     },
     "불고기소스": {
       "name_en": "item_jpeg_20251225_173453_3116802610266903734",
