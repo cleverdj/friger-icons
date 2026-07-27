@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.02.59.47",
-  "last_updated": "2026-07-27T02:59:47.949Z",
+  "version": "2026.07.27.02.59.53",
+  "last_updated": "2026-07-27T02:59:53.618Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1021,13 +1021,12 @@
       "updated_at": "2025-12-25T19:23:48.666879"
     },
     "칠리소스": {
-      "name_en": "item_JPEG_20251225_173452_2724310645875592422",
-      "category": "소스",
+      "name_en": "item_jpeg_20251225_173452_2724310645875592422",
+      "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_2724310645875592422.png",
       "unit": null,
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:49.789658"
+      "updated_at": "2026-07-27T02:59:53.618Z"
     },
     "돈가스소스": {
       "name_en": "item_jpeg_20251225_173452_4996028683718347240",
