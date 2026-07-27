@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.43.45",
-  "last_updated": "2026-07-27T05:43:45.391Z",
+  "version": "2026.07.27.05.43.49",
+  "last_updated": "2026-07-27T05:43:49.981Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1797,13 +1797,12 @@
       "updated_at": "2025-12-25T19:26:24.102615"
     },
     "고다치즈": {
-      "name_en": "item_JPEG_20251225_173458_7294785691775304270",
+      "name_en": "item_jpeg_20251225_173458_7294785691775304270",
       "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173458_7294785691775304270.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:26:25.028295"
+      "updated_at": "2026-07-27T05:43:49.981Z"
     },
     "블루치즈": {
       "name_en": "item_jpeg_20251225_173458_5035427734822804480",
