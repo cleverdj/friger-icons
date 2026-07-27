@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.44.11",
-  "last_updated": "2026-07-27T05:44:11.880Z",
+  "version": "2026.07.27.05.44.24",
+  "last_updated": "2026-07-27T05:44:24.093Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -511,9 +511,9 @@
       "name_en": "item_jpeg_20251225_173448_6288315257771672542",
       "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173448_6288315257771672542.png",
-      "unit": "g",
+      "unit": "ml",
       "recommended": false,
-      "updated_at": "2026-07-27T05:44:11.880Z"
+      "updated_at": "2026-07-27T05:44:24.093Z"
     },
     "오렌지": {
       "name_en": "item_JPEG_20251225_173448_2999205265075523775",
