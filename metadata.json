@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.03.00.12",
-  "last_updated": "2026-07-27T03:00:12.145Z",
+  "version": "2026.07.27.03.25.54",
+  "last_updated": "2026-07-27T03:25:54.862Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1111,13 +1111,13 @@
       "updated_at": "2025-12-25T19:24:00.951235"
     },
     "알배추": {
-      "name_en": "item_JPEG_20251225_173453_4394551853886144904",
+      "name_en": "item_jpeg_20251225_173453_4394551853886144904",
       "category": "채소류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173453_4394551853886144904.png",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_jpeg_20251225_173453_4394551853886144904.png?v=1785122754862",
       "unit": null,
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:24:01.970455"
+      "version": "1785122754862",
+      "updated_at": "2026-07-27T03:25:54.862Z"
     },
     "피자": {
       "name_en": "item_JPEG_20251225_173453_6712783406488904928",
