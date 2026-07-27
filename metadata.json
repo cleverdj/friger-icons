@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.43.09",
-  "last_updated": "2026-07-27T05:43:09.592Z",
+  "version": "2026.07.27.05.43.15",
+  "last_updated": "2026-07-27T05:43:15.379Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -3226,13 +3226,12 @@
       "updated_at": "2025-12-28T22:24:37.646552"
     },
     "그릭요거트": {
-      "name_en": "item_JPEG_20251229_060109_3328411146011664926",
+      "name_en": "item_jpeg_20251229_060109_3328411146011664926",
       "category": "유제품",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251229_060109_3328411146011664926.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-29T06:01:46.155855"
+      "updated_at": "2026-07-27T05:43:15.379Z"
     },
     "요거트": {
       "name_en": "item_jpeg_20251229_060109_5596895225768603675",
