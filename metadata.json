@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.05.46.04",
-  "last_updated": "2026-07-27T05:46:04.860Z",
+  "version": "2026.07.27.06.28.43",
+  "last_updated": "2026-07-27T06:28:43.009Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -924,9 +924,9 @@
       "name_en": "item_jpeg_20251225_173452_5567057344097928475",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_5567057344097928475.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T03:00:12.145Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "고추장": {
       "name_en": "item_JPEG_20251225_173452_6907868242730675058",
@@ -959,17 +959,17 @@
       "name_en": "item_jpeg_20251225_173452_8564965173947080149",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_8564965173947080149.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T03:00:06.176Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "레몬즙": {
       "name_en": "item_jpeg_20251225_173452_4831402730781578371",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_4831402730781578371.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:59.276Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "설탕": {
       "name_en": "item_JPEG_20251225_173452_4879062122596597771",
@@ -1010,41 +1010,41 @@
       "name_en": "item_jpeg_20251225_173452_2724310645875592422",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_2724310645875592422.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:53.618Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "돈가스소스": {
       "name_en": "item_jpeg_20251225_173452_4996028683718347240",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_4996028683718347240.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:47.949Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "스테이크소스": {
       "name_en": "item_jpeg_20251225_173452_536115264476208959",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173452_536115264476208959.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:42.291Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "불고기소스": {
       "name_en": "item_jpeg_20251225_173453_3116802610266903734",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173453_3116802610266903734.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:35.242Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "케첩": {
       "name_en": "item_jpeg_20251225_173453_5159397843700341042",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173453_5159397843700341042.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:29.757Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "봄동": {
       "name_en": "item_JPEG_20251225_173453_7187420627219180187",
@@ -1077,9 +1077,9 @@
       "name_en": "item_jpeg_20251225_173453_6948890698051812907",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173453_6948890698051812907.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:24.158Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "김밥김": {
       "name_en": "item_JPEG_20251225_173453_3283526358476972508",
@@ -2859,154 +2859,154 @@
       "name_en": "item_JPEG_20251228_201708_6428901906909535386",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_201708_6428901906909535386.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:17:18.492518"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "매실청": {
       "name_en": "item_JPEG_20251228_201915_8852163756011877733",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_201915_8852163756011877733.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:19:28.751051"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "홀그레인머스타드": {
       "name_en": "item_JPEG_20251228_202102_2583134690474566219",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202102_2583134690474566219.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:21:15.982514"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "바질페스토": {
       "name_en": "item_JPEG_20251228_202145_1510337653069052466",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202145_1510337653069052466.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:22:00.215871"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "오렌지마리네이드": {
       "name_en": "item_JPEG_20251228_202231_2177927103207762485",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202231_2177927103207762485.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:22:57.847324"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "무화과잼": {
       "name_en": "item_JPEG_20251228_202328_7962877579410348540",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202328_7962877579410348540.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:23:42.105"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "망고잼": {
       "name_en": "item_JPEG_20251228_202426_1216609089140430712",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_1216609089140430712.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:24:49.057383"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "복숭아잼": {
       "name_en": "item_JPEG_20251228_202426_8505971950412223777",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_8505971950412223777.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:24:50.308599"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "포도잼": {
       "name_en": "item_JPEG_20251228_202426_8104184708086696397",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202426_8104184708086696397.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:24:51.425351"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "라즈베리잼": {
       "name_en": "item_JPEG_20251228_202547_1247988690363161652",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_1247988690363161652.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:26:26.134462"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "살구잼": {
       "name_en": "item_JPEG_20251228_202547_2310854507272651963",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_2310854507272651963.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:26:27.155852"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "블루베리잼": {
       "name_en": "item_JPEG_20251228_202547_2420500487686107497",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202547_2420500487686107497.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:26:28.287883"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "사과잼": {
       "name_en": "item_JPEG_20251228_202715_1179286577692276677",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_1179286577692276677.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:28:55.947719"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "땅콩버터": {
       "name_en": "item_JPEG_20251228_202715_6380932046500675916",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_6380932046500675916.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:28:57.072334"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "토마토소스": {
       "name_en": "item_JPEG_20251228_202715_4507984310631728578",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_4507984310631728578.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:28:58.627415"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "딸기잼": {
       "name_en": "item_JPEG_20251228_202715_4129445652020523907",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_4129445652020523907.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:28:59.834906"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "크림소스": {
       "name_en": "item_JPEG_20251228_202715_5674373799686891688",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_202715_5674373799686891688.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:29:02.089935"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "발사믹식초": {
       "name_en": "item_JPEG_20251228_203047_3324349992546373562",
@@ -3424,10 +3424,10 @@
       "name_en": "item_JPEG_20260101_142453_5861523428693390126",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_142453_5861523428693390126.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-01-01T14:25:18.731969"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "마스크팩": {
       "name_en": "item_JPEG_20260101_172246_5965388534663774869",
@@ -3487,19 +3487,19 @@
       "name_en": "item_JPEG_20260101_180636_6142983819386247522",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_180636_6142983819386247522.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-01-01T18:07:16.344195"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "마요네즈": {
       "name_en": "item_JPEG_20260101_180915_1533340821221954256",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_180915_1533340821221954256.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-01-01T18:09:24.324764"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "참치액": {
       "name_en": "item_JPEG_20260101_184711_8967925640176590140",
@@ -3586,19 +3586,19 @@
       "name_en": "item_JPEG_20260101_214121_916479953064616048",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_214121_916479953064616048.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-01-01T21:42:17.770536"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "살사소스": {
       "name_en": "item_JPEG_20260101_214637_7551398055087791347",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260101_214637_7551398055087791347.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2026-01-01T21:46:46.162994"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "파프리카시즈닝": {
       "name_en": "item_JPEG_20260101_215009_6756642641872172234",
@@ -4044,9 +4044,9 @@
       "name_en": "item_jpeg_20260722_190545_5749728630481296266",
       "category": "소스/잼",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_5749728630481296266.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:18.445Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "참깨 드레싱": {
       "name_en": "item_jpeg_20260722_190545_3745173894625603772",
@@ -4054,7 +4054,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_3745173894625603772.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:58:29.491Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "콘샐러드 드레싱": {
       "name_en": "item_jpeg_20260722_190545_5337884340415725240",
@@ -4062,7 +4062,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_5337884340415725240.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:58:40.855Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "발사믹 드레싱": {
       "name_en": "item_jpeg_20260722_190545_6522705941819574655",
@@ -4070,7 +4070,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_6522705941819574655.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:58:47.257Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "칠리 드레싱": {
       "name_en": "item_jpeg_20260722_190545_2964799744742949693",
@@ -4078,7 +4078,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_2964799744742949693.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:58:54.010Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "이탈리안 허브 드레싱": {
       "name_en": "item_jpeg_20260722_190545_7116060929668759281",
@@ -4086,7 +4086,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_7116060929668759281.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:58:59.843Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "시저 드레싱": {
       "name_en": "item_jpeg_20260722_190545_634109772185460368",
@@ -4094,7 +4094,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_634109772185460368.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:06.608Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "요거트 드레싱": {
       "name_en": "item_jpeg_20260722_190545_7652920687994008018",
@@ -4102,7 +4102,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20260722_190545_7652920687994008018.png",
       "unit": "g",
       "recommended": false,
-      "updated_at": "2026-07-27T02:59:12.667Z"
+      "updated_at": "2026-07-27T06:28:43.008Z"
     },
     "푸주": {
       "name_en": "item_1785048487138",
