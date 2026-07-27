@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.06.32.24",
-  "last_updated": "2026-07-27T06:32:24.336Z",
+  "version": "2026.07.27.06.32.38",
+  "last_updated": "2026-07-27T06:32:38.452Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -1238,10 +1238,10 @@
       "name_en": "item_JPEG_20251225_173454_2014461990768810868",
       "category": "젓갈",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173454_2014461990768810868.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-25T19:24:30.854182"
+      "updated_at": "2026-07-27T06:32:38.451Z"
     },
     "미역": {
       "name_en": "item_JPEG_20251225_173454_4991756425863541148",
@@ -3039,28 +3039,28 @@
       "name_en": "item_JPEG_20251228_203420_1629119467500053099",
       "category": "젓갈",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_1629119467500053099.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:35:03.257159"
+      "updated_at": "2026-07-27T06:32:38.451Z"
     },
     "새우젓갈": {
       "name_en": "item_JPEG_20251228_203420_3180718670722590575",
       "category": "젓갈",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_3180718670722590575.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:35:05.203823"
+      "updated_at": "2026-07-27T06:32:38.451Z"
     },
     "오징어젓갈": {
       "name_en": "item_JPEG_20251228_203420_39280596151132775",
       "category": "젓갈",
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251228_203420_39280596151132775.png",
-      "unit": null,
+      "unit": "g",
       "recommended": false,
       "version": "1.0",
-      "updated_at": "2025-12-28T20:35:07.763042"
+      "updated_at": "2026-07-27T06:32:38.451Z"
     },
     "옥수수통조림": {
       "name_en": "item_JPEG_20251228_204101_4455701616832938140",
