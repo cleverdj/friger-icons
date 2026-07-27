@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.06.34.18",
-  "last_updated": "2026-07-27T06:34:18.743Z",
+  "version": "2026.07.27.07.58.31",
+  "last_updated": "2026-07-27T07:58:31.150Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4129,6 +4129,15 @@
       "recommended": false,
       "version": "1785049407164",
       "updated_at": "2026-07-26T07:03:27.164Z"
+    },
+    "과자": {
+      "name_en": "item_1785139107752",
+      "category": "간식류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785139107752.png?v=1785139111150",
+      "unit": "개",
+      "recommended": false,
+      "version": "1785139111150",
+      "updated_at": "2026-07-27T07:58:31.150Z"
     }
   }
 }
