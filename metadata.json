@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.27.13.19.16",
-  "last_updated": "2026-07-27T13:19:16.408Z",
+  "version": "2026.07.30.08.35.06",
+  "last_updated": "2026-07-30T08:35:06.268Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4147,6 +4147,15 @@
       "recommended": false,
       "version": "1785158356407",
       "updated_at": "2026-07-27T13:19:16.407Z"
+    },
+    "ㅅㄷㄴㅅ": {
+      "name_en": "item_1785400499830",
+      "category": "",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785400499830.png?v=1785400506268",
+      "unit": null,
+      "recommended": false,
+      "version": "1785400506268",
+      "updated_at": "2026-07-30T08:35:06.268Z"
     }
   }
 }
