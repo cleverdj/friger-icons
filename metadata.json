@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.31.08.54.45",
-  "last_updated": "2026-07-31T08:54:45.696Z",
+  "version": "2026.08.05.23.08.42",
+  "last_updated": "2026-08-05T23:08:42.617Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -859,13 +859,13 @@
       "updated_at": "2025-12-25T19:23:23.882265"
     },
     "쭈꾸미": {
-      "name_en": "item_JPEG_20251225_173451_6395503290308579159",
+      "name_en": "item_jpeg_20251225_173451_6395503290308579159",
       "category": "수산물",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_173451_6395503290308579159.png",
-      "unit": null,
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_jpeg_20251225_173451_6395503290308579159.png?v=1785971322615",
+      "unit": "g",
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T19:23:24.804654"
+      "version": "1785971322615",
+      "updated_at": "2026-08-05T23:08:42.615Z"
     },
     "문어": {
       "name_en": "item_JPEG_20251225_173451_5546465727381462711",
