@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.05.23.08.42",
-  "last_updated": "2026-08-05T23:08:42.617Z",
+  "version": "2026.08.05.23.17.56",
+  "last_updated": "2026-08-05T23:17:56.395Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4147,6 +4147,15 @@
       "recommended": false,
       "version": "1785158356407",
       "updated_at": "2026-07-27T13:19:16.407Z"
+    },
+    "뼈해장국": {
+      "name_en": "item_1785971866047",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785971866047.png?v=1785971876395",
+      "unit": "개",
+      "recommended": false,
+      "version": "1785971876395",
+      "updated_at": "2026-08-05T23:17:56.395Z"
     }
   }
 }
