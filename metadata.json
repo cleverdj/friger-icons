@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.06.02.51.01",
-  "last_updated": "2026-08-06T02:51:01.953Z",
+  "version": "2026.08.06.02.54.47",
+  "last_updated": "2026-08-06T02:54:47.607Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4183,6 +4183,15 @@
       "recommended": false,
       "version": "1785984661947",
       "updated_at": "2026-08-06T02:51:01.947Z"
+    },
+    "또띠아랩": {
+      "name_en": "item_1785984862090",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785984862090.png?v=1785984887607",
+      "unit": "개",
+      "recommended": false,
+      "version": "1785984887607",
+      "updated_at": "2026-08-06T02:54:47.607Z"
     }
   }
 }
