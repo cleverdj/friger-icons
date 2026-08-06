@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.06.01.15.22",
-  "last_updated": "2026-08-06T01:15:22.584Z",
+  "version": "2026.08.06.02.51.01",
+  "last_updated": "2026-08-06T02:51:01.953Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4174,6 +4174,15 @@
       "recommended": false,
       "version": "1785978922581",
       "updated_at": "2026-08-06T01:15:22.581Z"
+    },
+    "토스트": {
+      "name_en": "item_1785984650968",
+      "category": "제과/제빵",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785984650968.png?v=1785984661947",
+      "unit": "개",
+      "recommended": false,
+      "version": "1785984661947",
+      "updated_at": "2026-08-06T02:51:01.947Z"
     }
   }
 }
