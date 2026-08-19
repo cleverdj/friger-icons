@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.06.02.54.47",
-  "last_updated": "2026-08-06T02:54:47.607Z",
+  "version": "2026.08.19.13.48.31",
+  "last_updated": "2026-08-19T13:48:31.812Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -2300,13 +2300,13 @@
       "updated_at": "2025-12-25T23:13:16.651047"
     },
     "참외": {
-      "name_en": "item_JPEG_20251225_231624_7116064274449867610",
+      "name_en": "item_jpeg_20251225_231624_7116064274449867610",
       "category": "과일류",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_JPEG_20251225_231624_7116064274449867610.png",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_jpeg_20251225_231624_7116064274449867610.png?v=1787147311809",
       "unit": null,
       "recommended": false,
-      "version": "1.0",
-      "updated_at": "2025-12-25T23:16:33.562903"
+      "version": "1787147311809",
+      "updated_at": "2026-08-19T13:48:31.809Z"
     },
     "수박": {
       "name_en": "item_JPEG_20251225_231728_342051301915039714",
