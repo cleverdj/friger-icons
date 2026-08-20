@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.20.07.06.43",
-  "last_updated": "2026-08-20T07:06:43.949Z",
+  "version": "2026.08.20.07.12.02",
+  "last_updated": "2026-08-20T07:12:02.069Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4191,6 +4191,15 @@
       "recommended": false,
       "version": "1785984887607",
       "updated_at": "2026-08-06T02:54:47.607Z"
+    },
+    "콩나물국": {
+      "name_en": "item_1787209915534",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1787209915534.png?v=1787209922069",
+      "unit": "개",
+      "recommended": false,
+      "version": "1787209922069",
+      "updated_at": "2026-08-20T07:12:02.069Z"
     }
   }
 }
