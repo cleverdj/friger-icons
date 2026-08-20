@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.19.13.48.31",
-  "last_updated": "2026-08-19T13:48:31.812Z",
+  "version": "2026.08.20.07.06.43",
+  "last_updated": "2026-08-20T07:06:43.949Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4154,8 +4154,7 @@
       "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1785971866047.png?v=1785971876395",
       "unit": "개",
       "recommended": false,
-      "version": "1785971876395",
-      "updated_at": "2026-08-05T23:17:56.395Z"
+      "updated_at": "2026-08-20T07:06:43.948Z"
     },
     "볶음밥": {
       "name_en": "item_1785978380947",
