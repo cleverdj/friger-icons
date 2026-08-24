@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-24T00:00:00.000000",
+  "note": "체감(chegam) 앱 등에서 사용자가 카탈로그(농진청/식약처, valid_food_names.json 기준)에 없어 직접 입력했거나 AI 추정을 확정한 새 음식의 영양정보. nutrition_overrides.json(별칭·단위 변환)과 달리, 여기 실리는 음식은 카탈로그에 대응 항목 자체가 없다 — name이 valid_food_names.json에 없는 것이 정상이다. 모든 영양소 값은 100g 기준이다.",
+  "schema": {
+    "name": "사용자가 입력한 음식 이름 그대로(표준명 아님)",
+    "kcal": "100g당 칼로리",
+    "protein": "100g당 단백질(g)",
+    "fat": "100g당 지방(g)",
+    "carbs": "100g당 탄수화물(g)",
+    "sugar": "100g당 당류(g), 없으면 null",
+    "sodium": "100g당 나트륨(mg), 없으면 null",
+    "default_serving_grams": "이 음식의 기본 1회 분량(g), 없으면 null",
+    "source": "이 데이터를 등록한 앱/출처 식별자"
+  },
+  "foods": []
+}
