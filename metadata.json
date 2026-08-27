@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.27.12.23.51",
-  "last_updated": "2026-08-27T12:23:51.228Z",
+  "version": "2026.08.27.12.24.20",
+  "last_updated": "2026-08-27T12:24:20.032Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4200,6 +4200,15 @@
       "recommended": false,
       "version": "1787833283900",
       "updated_at": "2026-08-27T12:21:23.900Z"
+    },
+    "닭가슴살햄": {
+      "name_en": "item_1787833455383",
+      "category": "가공식품",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1787833455383.png?v=1787833460032",
+      "unit": "g",
+      "recommended": false,
+      "version": "1787833460032",
+      "updated_at": "2026-08-27T12:24:20.032Z"
     }
   }
 }
