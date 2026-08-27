@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.20.07.12.02",
-  "last_updated": "2026-08-20T07:12:02.069Z",
+  "version": "2026.08.27.12.21.23",
+  "last_updated": "2026-08-27T12:21:23.905Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4200,6 +4200,15 @@
       "recommended": false,
       "version": "1787209922069",
       "updated_at": "2026-08-20T07:12:02.069Z"
+    },
+    "동충하초": {
+      "name_en": "item_1787833277908",
+      "category": "채소류",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1787833277908.png?v=1787833283900",
+      "unit": "g",
+      "recommended": false,
+      "version": "1787833283900",
+      "updated_at": "2026-08-27T12:21:23.900Z"
     }
   }
 }
