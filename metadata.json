@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.18.08.06.05",
-  "last_updated": "2026-09-18T08:06:05.631Z",
+  "version": "2026.09.18.08.11.54",
+  "last_updated": "2026-09-18T08:11:54.534Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4218,6 +4218,15 @@
       "recommended": false,
       "version": "1789718765631",
       "updated_at": "2026-09-18T08:06:05.631Z"
+    },
+    "족발": {
+      "name_en": "item_1789719105857",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789719105857.png?v=1789719114534",
+      "unit": "g",
+      "recommended": false,
+      "version": "1789719114534",
+      "updated_at": "2026-09-18T08:11:54.534Z"
     }
   }
 }
