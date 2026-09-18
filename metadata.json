@@ -1,6 +1,6 @@
 {
-  "version": "2026.08.27.12.24.20",
-  "last_updated": "2026-08-27T12:24:20.032Z",
+  "version": "2026.09.18.08.06.05",
+  "last_updated": "2026-09-18T08:06:05.631Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4209,6 +4209,15 @@
       "recommended": false,
       "version": "1787833460032",
       "updated_at": "2026-08-27T12:24:20.032Z"
+    },
+    "보쌈": {
+      "name_en": "item_1789718756970",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789718756970.png?v=1789718765631",
+      "unit": "g",
+      "recommended": false,
+      "version": "1789718765631",
+      "updated_at": "2026-09-18T08:06:05.631Z"
     }
   }
 }
