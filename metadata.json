@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.18.08.11.54",
-  "last_updated": "2026-09-18T08:11:54.534Z",
+  "version": "2026.09.18.20.19.48",
+  "last_updated": "2026-09-18T20:19:48.774Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4227,6 +4227,15 @@
       "recommended": false,
       "version": "1789719114534",
       "updated_at": "2026-09-18T08:11:54.534Z"
+    },
+    "라따뚜이": {
+      "name_en": "item_1789762782238",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789762782238.png?v=1789762788771",
+      "unit": "개",
+      "recommended": false,
+      "version": "1789762788771",
+      "updated_at": "2026-09-18T20:19:48.771Z"
     }
   }
 }
