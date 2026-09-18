@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.18.22.05.22",
-  "last_updated": "2026-09-18T22:05:22.408Z",
+  "version": "2026.09.18.22.06.24",
+  "last_updated": "2026-09-18T22:06:24.161Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4229,15 +4229,6 @@
       "recommended": false,
       "version": "1789763251829",
       "updated_at": "2026-09-18T20:27:32.000Z"
-    },
-    "라따뚜이": {
-      "name_en": "item_1789762782238",
-      "category": "요리",
-      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789762782238.webp?v=1789763251833",
-      "unit": "개",
-      "recommended": false,
-      "version": "1789763251833",
-      "updated_at": "2026-09-18T20:27:33.000Z"
     },
     "야채찜": {
       "name_en": "item_1789769116337",
