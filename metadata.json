@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.18.20.27.42",
-  "last_updated": "2026-09-18T20:27:42.000Z",
+  "version": "2026.09.18.22.05.22",
+  "last_updated": "2026-09-18T22:05:22.408Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4238,6 +4238,15 @@
       "recommended": false,
       "version": "1789763251833",
       "updated_at": "2026-09-18T20:27:33.000Z"
+    },
+    "야채찜": {
+      "name_en": "item_1789769116337",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789769116337.png?v=1789769122404",
+      "unit": null,
+      "recommended": false,
+      "version": "1789769122404",
+      "updated_at": "2026-09-18T22:05:22.404Z"
     }
   }
 }
