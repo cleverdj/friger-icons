@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.19.06.56.35",
-  "last_updated": "2026-09-19T06:56:35.261Z",
+  "version": "2026.09.19.07.01.35",
+  "last_updated": "2026-09-19T07:01:35.315Z",
   "categories": {},
   "ingredients": {
     "석류": {
@@ -4256,6 +4256,15 @@
       "recommended": false,
       "version": "1789770736831",
       "updated_at": "2026-09-18T22:32:16.831Z"
+    },
+    "쭈꾸미덮밥": {
+      "name_en": "item_1789801290102",
+      "category": "요리",
+      "url": "https://cdn.jsdelivr.net/gh/cleverdj/friger-icons@main/icons/ingredients/item_1789801290102.webp?v=1789801295311",
+      "unit": null,
+      "recommended": false,
+      "version": "1789801295311",
+      "updated_at": "2026-09-19T07:01:35.312Z"
     }
   }
 }
